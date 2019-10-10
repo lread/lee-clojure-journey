@@ -1,6 +1,6 @@
 = Lee's Clojure Journey
 
-Just enjoying https://about.draw.io/[draw.io] and recording my https://cdn.jsdelivr.net/gh/lread/lee-clojure-journey/lee-clojure-journey.svg[Clojure journey].
+Just enjoying https://about.draw.io/[draw.io] and recording my https://cdn.jsdelivr.net/gh/lread/lee-clojure-journey@2d8955fca6517f91c173e063a210fd6741365222/lee-clojure-journey.svg[Clojure journey].
 
 Includes link:hoverize-links.clj[a little script to convert drawio to svg and hoverize links] to run it:
 
