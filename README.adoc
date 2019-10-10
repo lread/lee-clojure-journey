@@ -1,0 +1,10 @@
+= Lee's Clojure Journey
+
+Just enjoying https://about.draw.io/[draw.io] and recording my https://cdn.jsdelivr.net/gh/lread/lee-clojure-journey/lee-clojure-journey.svg[Clojure journey].
+
+Includes link:hoverize-links.clj[a little script to convert drawio to svg and hoverize links] to run it:
+
+[source,shell]
+----
+clojure hoverize-links.clj
+----
