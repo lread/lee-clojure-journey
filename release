@@ -1,0 +1,31 @@
+#!/usr/bin/env bash
+
+set -eou pipefail
+
+if [[ ! -z "$(git status --porcelain)" ]]; then
+    echo "* Please commit changes"
+    git status --short
+    exit 1
+fi
+
+if [[ lee-clojure-journey.drawio -nt lee-clojure-journey.svg ]]; then
+    echo "* drawio file is newer than svg"
+    echo "you probably want to run: clojure hoverize-links.clj"
+    exit 1
+fi
+
+CURRENT_README_SHA=$(sed -n "s/.*https.*jsdelivr.*@\(.*\)\/.*/\1/p" README.adoc)
+
+CURRENT_SVG_SHA=$(git rev-list master -1  lee-clojure-journey.svg)
+
+if [ "$CURRENT_README_SHA" == "$CURRENT_SVG_SHA" ]; then
+    echo "README link to svg is current, no need to update"
+else
+    echo "Updating README link to svg"
+    sed -i.bak -e "s/${CURRENT_README_SHA}/${CURRENT_SVG_SHA}/" README.adoc
+    rm -f README.adoc.bak
+    git add README.adoc
+    git commit -m "update README link to svg"
+fi
+
+git push

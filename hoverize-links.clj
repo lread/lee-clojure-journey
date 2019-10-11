@@ -3,19 +3,21 @@
 (require '[clojure.zip :as zip])
 (require '[clojure.java.io :as io])
 
-(defn hover-style []
+(defn css-style []
   (xml/parse-str
-   (str "<style xmlns=\"http://www.w3.org/1999/xhtml\" type=\"text/css\">"
-        "a > ellipse:hover {"
-        "  stroke-width: 2;"
-        "  fill:#99ccff;}"
+   (str "<style xmlns=\"http://www.w3.org/1999/xhtml\" type=\"text/css\">\n"
+        "<![CDATA[\n"
+        "@import url('https://fonts.googleapis.com/css?family=Arvo&display=swap');\n"
+        "a > ellipse:hover {\n"
+        "  stroke-width: 2;\n"
+        "  fill:#99ccff;}]]>\n"
         "</style>")))
 
 (defn adjust-attr [loc attr-k value]
   (zip/edit loc #(assoc-in % [:attrs attr-k] value)))
 
 (defn hoverize[svg-zip]
-  (loop [loc (zip/insert-child svg-zip (hover-style))]
+  (loop [loc (zip/insert-child svg-zip (css-style))]
     (if (zip/end? loc)
       (zip/root loc)
       (let [tag (some-> loc zip/node :tag name)
