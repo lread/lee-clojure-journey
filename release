@@ -2,15 +2,15 @@
 
 set -eou pipefail
 
-if [[ ! -z "$(git status --porcelain)" ]]; then
-    echo "* Please commit changes"
-    git status --short
+if [[ lee-clojure-journey.drawio -nt lee-clojure-journey.svg ]]; then
+    echo "* drawio file is newer than svg"
+    echo "run: clojure hoverize-links.clj"
     exit 1
 fi
 
-if [[ lee-clojure-journey.drawio -nt lee-clojure-journey.svg ]]; then
-    echo "* drawio file is newer than svg"
-    echo "you probably want to run: clojure hoverize-links.clj"
+if [[ ! -z "$(git status --porcelain)" ]]; then
+    echo "* Please commit changes"
+    git status --short
     exit 1
 fi
 
