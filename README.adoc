@@ -15,6 +15,10 @@ Assumes draw.io desktop app is installed.
 
 To create a new release, run `release` - it takes care of updating links herein.
 
+Am using jsdelivr to allow sharing svg with proper rendering. I found that a raw
+github url with `sanitize=true` did not do the trick. Some elements were not
+drawn.
+
 The above Clojure journey link matches current github version, here's
 https://cdn.jsdelivr.net/gh/lread/lee-clojure-journey@latest/lee-clojure-journey.svg[the
 latest available]. It seems like jsdelivr caches for 7 days, so it you really
