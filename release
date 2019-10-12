@@ -4,7 +4,7 @@ set -eou pipefail
 
 if [[ lee-clojure-journey.drawio -nt lee-clojure-journey.svg ]]; then
     echo "* drawio file is newer than svg"
-    echo "run: clojure hoverize-links.clj"
+    echo "run: clojure export-to-svg.clj"
     exit 1
 fi
 

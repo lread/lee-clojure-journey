@@ -5,11 +5,11 @@ https://cdn.jsdelivr.net/gh/lread/lee-clojure-journey@816e40d1210d1866a14e084f21
 
 == Notes to self
 
-Includes link:hoverize-links.clj[a little script to convert drawio to svg and hoverize links] to run it:
+Includes link:export-to-svg.clj[a little script to convert drawio to svg and hoverize links] to run it:
 
 [source,shell]
 ----
-clojure hoverize-links.clj
+clojure export-to-svg.clj
 ----
 Assumes draw.io desktop app is installed.
 
