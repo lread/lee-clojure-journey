@@ -14,7 +14,7 @@ if [[ lee-clojure-journey.drawio -nt lee-clojure-journey.svg ]]; then
     exit 1
 fi
 
-CURRENT_README_SHA=$(sed -n "s/.*https.*jsdelivr.*@\(.*\)\/.*/\1/p" README.adoc)
+CURRENT_README_SHA=$(sed -n "s/.*https.*jsdelivr.*@\(.*\)\/.*/\1/p" README.adoc | head -1)
 
 CURRENT_SVG_SHA=$(git rev-list master -1  lee-clojure-journey.svg)
 
