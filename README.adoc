@@ -1,6 +1,6 @@
 = Lee's Clojure Journey
 
-Just enjoying https://about.draw.io/[draw.io] and recording my https://cdn.jsdelivr.net/gh/lread/lee-clojure-journey@5c3ef6986ef260050218361fb5cec800a91927fd/lee-clojure-journey.svg[Clojure journey].
+Just enjoying https://about.draw.io/[draw.io] and recording my https://cdn.jsdelivr.net/gh/lread/lee-clojure-journey@816e40d1210d1866a14e084f21e7487cd3bf4b46/lee-clojure-journey.svg[Clojure journey].
 
 == Notes to self
 
