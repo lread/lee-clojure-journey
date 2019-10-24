@@ -1,7 +1,7 @@
 = Lee's Clojure Journey
 
 Just enjoying https://about.draw.io/[draw.io] and recording my
-https://cdn.jsdelivr.net/gh/lread/lee-clojure-journey@ff21fecb4e011a05aa8e2b9d35d42b6ab5a2d76e/lee-clojure-journey.svg[Clojure journey].
+https://cdn.jsdelivr.net/gh/lread/lee-clojure-journey@3fd99d6525169c5721c90da0ea672810d1bd10a8/lee-clojure-journey.svg[Clojure journey].
 
 == Notes to self
 
