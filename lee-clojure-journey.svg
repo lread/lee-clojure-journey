@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1688px" height="2183px" viewBox="-0.5 -0.5 1688 2183">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1688px" height="2327px" viewBox="-0.5 -0.5 1688 2327">
   <e:style xmlns:e="http://www.w3.org/1999/xhtml" type="text/css">
 
 @import url('https://fonts.googleapis.com/css?family=Arvo&amp;display=swap');
@@ -245,10 +245,10 @@ a &gt; ellipse:hover {
     <path d="M 535.54 1575.65 L 530.82 1569.41 L 534.58 1570.49 L 537.7 1568.13 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
     <path d="M 555 1319 L 582.36 1309.32" fill="none" stroke="#000000" stroke-miterlimit="10"/>
     <path d="M 587.31 1307.57 L 581.87 1313.21 L 582.36 1309.32 L 579.54 1306.61 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
-    <path d="M 748.74 1292.5 L 812.44 1271.95" fill="none" stroke="#000000" stroke-miterlimit="10"/>
-    <path d="M 817.44 1270.34 L 811.85 1275.82 L 812.44 1271.95 L 809.7 1269.16 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
-    <path d="M 1010 1201.5 C 974 1201.5 965 1229 993.8 1234.5 C 965 1246.6 997.4 1273 1020.8 1262 C 1037 1284 1091 1284 1109 1262 C 1145 1262 1145 1240 1122.5 1229 C 1145 1207 1109 1185 1077.5 1196 C 1055 1179.5 1019 1179.5 1010 1201.5 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"/>
-    <g transform="translate(998.5,1201.5)">
+    <path d="M 748.74 1292.5 L 815.33 1260.54" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M 820.07 1258.27 L 815.27 1264.45 L 815.33 1260.54 L 812.24 1258.14 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M 968.5 1117.5 C 932.5 1117.5 923.5 1145 952.3 1150.5 C 923.5 1162.6 955.9 1189 979.3 1178 C 995.5 1200 1049.5 1200 1067.5 1178 C 1103.5 1178 1103.5 1156 1081 1145 C 1103.5 1123 1067.5 1101 1036 1112 C 1013.5 1095.5 977.5 1095.5 968.5 1117.5 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"/>
+    <g transform="translate(956.5,1117.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="none" width="113" height="54" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <gq:div xmlns:gq="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -275,8 +275,8 @@ a &gt; ellipse:hover {
         <text x="57" y="33" fill="#000000" text-anchor="middle" font-size="12px" font-family="Arvo">[Not supported by viewer]</text>
       </switch>
     </g>
-    <path d="M 977.6 1218 L 926.8 1239.26" fill="none" stroke="#000000" stroke-miterlimit="10"/>
-    <path d="M 921.96 1241.28 L 927.06 1235.35 L 926.8 1239.26 L 929.77 1241.81 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M 946.9 1174.7 L 911.27 1197.76" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M 906.87 1200.61 L 910.84 1193.87 L 911.27 1197.76 L 914.64 1199.74 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
     <path d="M 605.75 1440 C 572.75 1440 564.5 1465 590.9 1470 C 564.5 1481 594.2 1505 615.65 1495 C 630.5 1515 680 1515 696.5 1495 C 729.5 1495 729.5 1475 708.88 1465 C 729.5 1445 696.5 1425 667.63 1435 C 647 1420 614 1420 605.75 1440 Z" fill="none" stroke="#000000" stroke-miterlimit="10"/>
     <g transform="translate(601.5,1444.5)">
       <switch>
@@ -330,8 +330,8 @@ a &gt; ellipse:hover {
     </g>
     <path d="M 714.4 1685.6 L 785.6 1613.32" fill="none" stroke="#000000" stroke-miterlimit="10"/>
     <path d="M 789.29 1609.58 L 786.87 1617.02 L 785.6 1613.32 L 781.88 1612.11 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
-    <path d="M 818.5 1376 C 794.5 1376 788.5 1396 807.7 1400 C 788.5 1408.8 810.1 1428 825.7 1420 C 836.5 1436 872.5 1436 884.5 1420 C 908.5 1420 908.5 1404 893.5 1396 C 908.5 1380 884.5 1364 863.5 1372 C 848.5 1360 824.5 1360 818.5 1376 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"/>
-    <g transform="translate(818.5,1382.5)">
+    <path d="M 787.5 1395 C 763.5 1395 757.5 1415 776.7 1419 C 757.5 1427.8 779.1 1447 794.7 1439 C 805.5 1455 841.5 1455 853.5 1439 C 877.5 1439 877.5 1423 862.5 1415 C 877.5 1399 853.5 1383 832.5 1391 C 817.5 1379 793.5 1379 787.5 1395 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"/>
+    <g transform="translate(787.5,1401.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="none" width="60" height="26" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <mu:div xmlns:mu="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 60px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
@@ -347,10 +347,10 @@ a &gt; ellipse:hover {
         <text x="30" y="19" fill="#000000" text-anchor="middle" font-size="12px" font-family="Arvo">[Not supported by viewer]</text>
       </switch>
     </g>
-    <path d="M 732.9 1346.4 L 791.56 1384.53" fill="none" stroke="#000000" stroke-miterlimit="10"/>
-    <path d="M 795.96 1387.39 L 788.19 1386.51 L 791.56 1384.53 L 792 1380.64 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
-    <path d="M 966.5 1413 C 942.5 1413 936.5 1433 955.7 1437 C 936.5 1445.8 958.1 1465 973.7 1457 C 984.5 1473 1020.5 1473 1032.5 1457 C 1056.5 1457 1056.5 1441 1041.5 1433 C 1056.5 1417 1032.5 1401 1011.5 1409 C 996.5 1397 972.5 1397 966.5 1413 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"/>
-    <g transform="translate(966.5,1412.5)">
+    <path d="M 732.9 1346.4 L 762.85 1401.41" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M 765.37 1406.02 L 758.94 1401.54 L 762.85 1401.41 L 765.09 1398.2 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M 934.5 1404 C 910.5 1404 904.5 1424 923.7 1428 C 904.5 1436.8 926.1 1456 941.7 1448 C 952.5 1464 988.5 1464 1000.5 1448 C 1024.5 1448 1024.5 1432 1009.5 1424 C 1024.5 1408 1000.5 1392 979.5 1400 C 964.5 1388 940.5 1388 934.5 1404 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"/>
+    <g transform="translate(934.5,1403.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="none" width="60" height="40" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <qv:div xmlns:qv="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 60px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
@@ -367,8 +367,8 @@ a &gt; ellipse:hover {
         <text x="30" y="26" fill="#000000" text-anchor="middle" font-size="12px" font-family="Arvo">[Not supported by viewer]</text>
       </switch>
     </g>
-    <path d="M 884.5 1420 L 938.55 1424.47" fill="none" stroke="#000000" stroke-miterlimit="10"/>
-    <path d="M 943.79 1424.91 L 936.52 1427.82 L 938.55 1424.47 L 937.1 1420.84 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M 872.7 1431 L 906.93 1418.23" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M 911.85 1416.39 L 906.52 1422.12 L 906.93 1418.23 L 904.07 1415.56 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
     <a xlink:href="https://gnucash.org/" target="_blank">
       <path d="M 275.25 112.5 C 246.25 112.5 239 140 262.2 145.5 C 239 157.6 265.1 184 283.95 173 C 297 195 340.5 195 355 173 C 384 173 384 151 365.88 140 C 384 118 355 96 329.63 107 C 311.5 90.5 282.5 90.5 275.25 112.5 Z" fill="none" stroke="#000000" stroke-miterlimit="10"/>
       <g transform="translate(279.5,112.5)">
@@ -549,8 +549,8 @@ a &gt; ellipse:hover {
     </g>
     <path d="M 758.5 1147 L 783.15 1113.15" fill="none" stroke="#000000" stroke-miterlimit="10"/>
     <path d="M 786.24 1108.9 L 784.95 1116.62 L 783.15 1113.15 L 779.29 1112.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
-    <path d="M 866 1072 L 900.44 1066.96" fill="none" stroke="#000000" stroke-miterlimit="10"/>
-    <path d="M 905.63 1066.2 L 899.21 1070.68 L 900.44 1066.96 L 898.2 1063.75 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M 866.7 1042 L 904.6 1004.33" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M 908.32 1000.63 L 905.82 1008.05 L 904.6 1004.33 L 900.89 1003.08 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
     <path d="M 615 312.2 L 636.82 351.86" fill="none" stroke="#000000" stroke-miterlimit="10"/>
     <path d="M 639.35 356.46 L 632.91 352.01 L 636.82 351.86 L 639.04 348.64 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
     <path d="M 637.4 303.8 L 755.06 344.63" fill="none" stroke="#000000" stroke-miterlimit="10"/>
@@ -883,8 +883,8 @@ a &gt; ellipse:hover {
     <path d="M 223.97 751.58 L 216.16 752.16 L 219.11 749.58 L 218.82 745.68 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
     <path d="M 345 752 L 414.76 673.75" fill="none" stroke="#000000" stroke-miterlimit="10"/>
     <path d="M 418.26 669.83 L 416.21 677.39 L 414.76 673.75 L 410.99 672.73 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
-    <path d="M 1064 1278.5 L 1031.99 1302.86" fill="none" stroke="#000000" stroke-miterlimit="10"/>
-    <path d="M 1027.82 1306.04 L 1031.27 1299.01 L 1031.99 1302.86 L 1035.51 1304.58 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M 1081 1145 L 1130.67 1139.23" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M 1135.89 1138.63 L 1129.34 1142.91 L 1130.67 1139.23 L 1128.53 1135.96 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
     <rect x="0.5" y="0" width="587" height="52" fill="#ffffff" stroke="none"/>
     <g fill="#000000" font-family="Arvo" font-size="18px">
       <text x="2" y="32.5">   Lee's Clojure Journey ~ a winding course of happy distractions</text>
@@ -1120,8 +1120,8 @@ a &gt; ellipse:hover {
     </a>
     <image x="751" y="950.5" width="12" height="16" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDEyIDE2IiBmaWxsPSJub25lIj4mI3hhOzxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMTEgMTEuMjhDMTEgOS41NSAxMSA1IDExIDVDMTAuOTcgNC4yMiAxMC42NiAzLjUzIDEwLjA2IDIuOTRDOS40NiAyLjM1IDguNzggMi4wMyA4IDJDOCAyIDYuOTggMiA3IDJWMEw0IDNMNyA2VjRIOEM4LjI3IDQuMDIgOC40OCA0LjExIDguNjkgNC4zMUM4LjkgNC41MSA4Ljk5IDQuNzMgOSA1VjExLjI4QzguNDEgMTEuNjIgOCAxMi4yNiA4IDEzQzggMTQuMTEgOC44OSAxNSAxMCAxNUMxMS4xMSAxNSAxMiAxNC4xMSAxMiAxM0MxMiAxMi4yNyAxMS41OSAxMS42MiAxMSAxMS4yOFpNOS45OTk5OSAxNC4yQzkuMzM5OTkgMTQuMiA4Ljc5OTk5IDEzLjY1IDguNzk5OTkgMTNDOC43OTk5OSAxMi4zNSA5LjM0OTk5IDExLjggOS45OTk5OSAxMS44QzEwLjY1IDExLjggMTEuMiAxMi4zNSAxMS4yIDEzQzExLjIgMTMuNjUgMTAuNjUgMTQuMiA5Ljk5OTk5IDE0LjJaTTQgM0M0IDEuODkgMy4xMSAxIDIgMUMwLjg5IDEgMCAxLjg5IDAgM0MwIDMuNzMgMC40MSA0LjM4IDEgNC43MkMxIDYuMjcgMSAxMC4yOCAxIDExLjI4QzAuNDEgMTEuNjIgMCAxMi4yNiAwIDEzQzAgMTQuMTEgMC44OSAxNSAyIDE1QzMuMTEgMTUgNCAxNC4xMSA0IDEzQzQgMTIuMjcgMy41OSAxMS42MiAzIDExLjI4VjQuNzJDMy41OSA0LjM4IDQgMy43NCA0IDNaTTMuMTk5OTkgMTNDMy4xOTk5OSAxMy42NiAyLjY0OTk5IDE0LjIgMS45OTk5OSAxNC4yQzEuMzQ5OTkgMTQuMiAwLjc5OTk4OCAxMy42NSAwLjc5OTk4OCAxM0MwLjc5OTk4OCAxMi4zNSAxLjM0OTk5IDExLjggMS45OTk5OSAxMS44QzIuNjQ5OTkgMTEuOCAzLjE5OTk5IDEyLjM1IDMuMTk5OTkgMTNaTTEuOTk5OTkgNC4yQzEuMzM5OTkgNC4yIDAuNzk5OTg4IDMuNjUgMC43OTk5ODggM0MwLjc5OTk4OCAyLjM1IDEuMzQ5OTkgMS44IDEuOTk5OTkgMS44QzIuNjQ5OTkgMS44IDMuMTk5OTkgMi4zNSAzLjE5OTk5IDNDMy4xOTk5OSAzLjY1IDIuNjQ5OTkgNC4yIDEuOTk5OTkgNC4yWiIgZmlsbD0iIzFCMUYyMyIvPiYjeGE7PC9zdmc+" preserveAspectRatio="none" pointer-events="none"/>
     <a xlink:href="https://github.com/Homebrew/homebrew-cask-fonts/pulls?utf8=%E2%9C%93&amp;q=+author%3Alread+" target="_blank">
-      <ellipse cx="974.5" cy="1056" rx="70" ry="40" fill="none" stroke="#000000" pointer-events="fill"/>
-      <g transform="translate(943.5,1035.5)">
+      <ellipse cx="943.5" cy="965" rx="70" ry="40" fill="none" stroke="#000000" pointer-events="fill"/>
+      <g transform="translate(912.5,944.5)">
         <switch>
           <foreignObject style="overflow:visible;" pointer-events="none" width="62" height="40" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
             <iuc:div xmlns:iuc="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 64px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
@@ -1138,7 +1138,7 @@ a &gt; ellipse:hover {
         </switch>
       </g>
     </a>
-    <image x="1027.5" y="1048.5" width="12" height="16" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDEyIDE2IiBmaWxsPSJub25lIj4mI3hhOzxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMTEgMTEuMjhDMTEgOS41NSAxMSA1IDExIDVDMTAuOTcgNC4yMiAxMC42NiAzLjUzIDEwLjA2IDIuOTRDOS40NiAyLjM1IDguNzggMi4wMyA4IDJDOCAyIDYuOTggMiA3IDJWMEw0IDNMNyA2VjRIOEM4LjI3IDQuMDIgOC40OCA0LjExIDguNjkgNC4zMUM4LjkgNC41MSA4Ljk5IDQuNzMgOSA1VjExLjI4QzguNDEgMTEuNjIgOCAxMi4yNiA4IDEzQzggMTQuMTEgOC44OSAxNSAxMCAxNUMxMS4xMSAxNSAxMiAxNC4xMSAxMiAxM0MxMiAxMi4yNyAxMS41OSAxMS42MiAxMSAxMS4yOFpNOS45OTk5OSAxNC4yQzkuMzM5OTkgMTQuMiA4Ljc5OTk5IDEzLjY1IDguNzk5OTkgMTNDOC43OTk5OSAxMi4zNSA5LjM0OTk5IDExLjggOS45OTk5OSAxMS44QzEwLjY1IDExLjggMTEuMiAxMi4zNSAxMS4yIDEzQzExLjIgMTMuNjUgMTAuNjUgMTQuMiA5Ljk5OTk5IDE0LjJaTTQgM0M0IDEuODkgMy4xMSAxIDIgMUMwLjg5IDEgMCAxLjg5IDAgM0MwIDMuNzMgMC40MSA0LjM4IDEgNC43MkMxIDYuMjcgMSAxMC4yOCAxIDExLjI4QzAuNDEgMTEuNjIgMCAxMi4yNiAwIDEzQzAgMTQuMTEgMC44OSAxNSAyIDE1QzMuMTEgMTUgNCAxNC4xMSA0IDEzQzQgMTIuMjcgMy41OSAxMS42MiAzIDExLjI4VjQuNzJDMy41OSA0LjM4IDQgMy43NCA0IDNaTTMuMTk5OTkgMTNDMy4xOTk5OSAxMy42NiAyLjY0OTk5IDE0LjIgMS45OTk5OSAxNC4yQzEuMzQ5OTkgMTQuMiAwLjc5OTk4OCAxMy42NSAwLjc5OTk4OCAxM0MwLjc5OTk4OCAxMi4zNSAxLjM0OTk5IDExLjggMS45OTk5OSAxMS44QzIuNjQ5OTkgMTEuOCAzLjE5OTk5IDEyLjM1IDMuMTk5OTkgMTNaTTEuOTk5OTkgNC4yQzEuMzM5OTkgNC4yIDAuNzk5OTg4IDMuNjUgMC43OTk5ODggM0MwLjc5OTk4OCAyLjM1IDEuMzQ5OTkgMS44IDEuOTk5OTkgMS44QzIuNjQ5OTkgMS44IDMuMTk5OTkgMi4zNSAzLjE5OTk5IDNDMy4xOTk5OSAzLjY1IDIuNjQ5OTkgNC4yIDEuOTk5OTkgNC4yWiIgZmlsbD0iIzFCMUYyMyIvPiYjeGE7PC9zdmc+" preserveAspectRatio="none" pointer-events="none"/>
+    <image x="996.5" y="957.5" width="12" height="16" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDEyIDE2IiBmaWxsPSJub25lIj4mI3hhOzxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMTEgMTEuMjhDMTEgOS41NSAxMSA1IDExIDVDMTAuOTcgNC4yMiAxMC42NiAzLjUzIDEwLjA2IDIuOTRDOS40NiAyLjM1IDguNzggMi4wMyA4IDJDOCAyIDYuOTggMiA3IDJWMEw0IDNMNyA2VjRIOEM4LjI3IDQuMDIgOC40OCA0LjExIDguNjkgNC4zMUM4LjkgNC41MSA4Ljk5IDQuNzMgOSA1VjExLjI4QzguNDEgMTEuNjIgOCAxMi4yNiA4IDEzQzggMTQuMTEgOC44OSAxNSAxMCAxNUMxMS4xMSAxNSAxMiAxNC4xMSAxMiAxM0MxMiAxMi4yNyAxMS41OSAxMS42MiAxMSAxMS4yOFpNOS45OTk5OSAxNC4yQzkuMzM5OTkgMTQuMiA4Ljc5OTk5IDEzLjY1IDguNzk5OTkgMTNDOC43OTk5OSAxMi4zNSA5LjM0OTk5IDExLjggOS45OTk5OSAxMS44QzEwLjY1IDExLjggMTEuMiAxMi4zNSAxMS4yIDEzQzExLjIgMTMuNjUgMTAuNjUgMTQuMiA5Ljk5OTk5IDE0LjJaTTQgM0M0IDEuODkgMy4xMSAxIDIgMUMwLjg5IDEgMCAxLjg5IDAgM0MwIDMuNzMgMC40MSA0LjM4IDEgNC43MkMxIDYuMjcgMSAxMC4yOCAxIDExLjI4QzAuNDEgMTEuNjIgMCAxMi4yNiAwIDEzQzAgMTQuMTEgMC44OSAxNSAyIDE1QzMuMTEgMTUgNCAxNC4xMSA0IDEzQzQgMTIuMjcgMy41OSAxMS42MiAzIDExLjI4VjQuNzJDMy41OSA0LjM4IDQgMy43NCA0IDNaTTMuMTk5OTkgMTNDMy4xOTk5OSAxMy42NiAyLjY0OTk5IDE0LjIgMS45OTk5OSAxNC4yQzEuMzQ5OTkgMTQuMiAwLjc5OTk4OCAxMy42NSAwLjc5OTk4OCAxM0MwLjc5OTk4OCAxMi4zNSAxLjM0OTk5IDExLjggMS45OTk5OSAxMS44QzIuNjQ5OTkgMTEuOCAzLjE5OTk5IDEyLjM1IDMuMTk5OTkgMTNaTTEuOTk5OTkgNC4yQzEuMzM5OTkgNC4yIDAuNzk5OTg4IDMuNjUgMC43OTk5ODggM0MwLjc5OTk4OCAyLjM1IDEuMzQ5OTkgMS44IDEuOTk5OTkgMS44QzIuNjQ5OTkgMS44IDMuMTk5OTkgMi4zNSAzLjE5OTk5IDNDMy4xOTk5OSAzLjY1IDIuNjQ5OTkgNC4yIDEuOTk5OTkgNC4yWiIgZmlsbD0iIzFCMUYyMyIvPiYjeGE7PC9zdmc+" preserveAspectRatio="none" pointer-events="none"/>
     <a xlink:href="https://github.com/clj-commons/rewrite-cljs/issues?utf8=%E2%9C%93&amp;q=+author%3Alread+" target="_blank">
       <ellipse cx="151.5" cy="1083" rx="60" ry="40" fill="none" stroke="#000000" pointer-events="fill"/>
       <g transform="translate(118.5,1076.5)">
@@ -1168,8 +1168,8 @@ a &gt; ellipse:hover {
     </a>
     <image x="539.5" y="1310.5" width="10" height="16" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMCIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDEwIDE2IiBmaWxsPSJub25lIj4mI3hhOzxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNOCAxQzYuODkgMSA2IDEuODkgNiAzQzYgMy43MyA2LjQxIDQuMzggNyA0LjcyVjZMNSA4TDMgNlY0LjcyQzMuNTkgNC4zOCA0IDMuNzQgNCAzQzQgMS44OSAzLjExIDEgMiAxQzAuODkgMSAwIDEuODkgMCAzQzAgMy43MyAwLjQxIDQuMzggMSA0LjcyVjYuNUw0IDkuNVYxMS4yOEMzLjQxIDExLjYyIDMgMTIuMjYgMyAxM0MzIDE0LjExIDMuODkgMTUgNSAxNUM2LjExIDE1IDcgMTQuMTEgNyAxM0M3IDEyLjI3IDYuNTkgMTEuNjIgNiAxMS4yOFY5LjVMOSA2LjVWNC43MkM5LjU5IDQuMzggMTAgMy43NCAxMCAzQzEwIDEuODkgOS4xMSAxIDggMVpNMiA0LjJDMS4zNCA0LjIgMC44MDAwMDMgMy42NSAwLjgwMDAwMyAzQzAuODAwMDAzIDIuMzUgMS4zNSAxLjggMiAxLjhDMi42NSAxLjggMy4yIDIuMzUgMy4yIDNDMy4yIDMuNjUgMi42NSA0LjIgMiA0LjJaTTUgMTQuMkM0LjM0IDE0LjIgMy44IDEzLjY1IDMuOCAxM0MzLjggMTIuMzUgNC4zNSAxMS44IDUgMTEuOEM1LjY1IDExLjggNi4yIDEyLjM1IDYuMiAxM0M2LjIgMTMuNjUgNS42NSAxNC4yIDUgMTQuMlpNOCA0LjJDNy4zNCA0LjIgNi44IDMuNjUgNi44IDNDNi44IDIuMzUgNy4zNSAxLjggOCAxLjhDOC42NSAxLjggOS4yIDIuMzUgOS4yIDNDOS4yIDMuNjUgOC42NSA0LjIgOCA0LjJaIiBmaWxsPSIjMUIxRjIzIi8+JiN4YTs8L3N2Zz4=" preserveAspectRatio="none" pointer-events="none"/>
     <a xlink:href="https://clojure.atlassian.net/browse/CLJS-3074?jql=key%20in%20(%22CLJS-3074%22%2C%22CLJS-3114%22%2C%20%22CLJS-3098%22%2C%20%22CLJS-3079%22%2C%20%22CLJS-3075%22)%20order%20by%20createdDate%20asc" target="_blank">
-      <ellipse cx="878.5" cy="1270" rx="60" ry="40" fill="none" stroke="#000000" pointer-events="fill"/>
-      <g transform="translate(868.5,1263.5)">
+      <ellipse cx="863.5" cy="1229.5" rx="60" ry="40" fill="none" stroke="#000000" pointer-events="fill"/>
+      <g transform="translate(853.5,1223.5)">
         <switch>
           <foreignObject style="overflow:visible;" pointer-events="none" width="20" height="12" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
             <rxc:div xmlns:rxc="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 20px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
@@ -1180,10 +1180,10 @@ a &gt; ellipse:hover {
         </switch>
       </g>
     </a>
-    <image x="922.5" y="1261.5" width="12" height="16" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDEyIDE2IiBmaWxsPSJub25lIj4mI3hhOzxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMTEgMTEuMjhDMTEgOS41NSAxMSA1IDExIDVDMTAuOTcgNC4yMiAxMC42NiAzLjUzIDEwLjA2IDIuOTRDOS40NiAyLjM1IDguNzggMi4wMyA4IDJDOCAyIDYuOTggMiA3IDJWMEw0IDNMNyA2VjRIOEM4LjI3IDQuMDIgOC40OCA0LjExIDguNjkgNC4zMUM4LjkgNC41MSA4Ljk5IDQuNzMgOSA1VjExLjI4QzguNDEgMTEuNjIgOCAxMi4yNiA4IDEzQzggMTQuMTEgOC44OSAxNSAxMCAxNUMxMS4xMSAxNSAxMiAxNC4xMSAxMiAxM0MxMiAxMi4yNyAxMS41OSAxMS42MiAxMSAxMS4yOFpNOS45OTk5OSAxNC4yQzkuMzM5OTkgMTQuMiA4Ljc5OTk5IDEzLjY1IDguNzk5OTkgMTNDOC43OTk5OSAxMi4zNSA5LjM0OTk5IDExLjggOS45OTk5OSAxMS44QzEwLjY1IDExLjggMTEuMiAxMi4zNSAxMS4yIDEzQzExLjIgMTMuNjUgMTAuNjUgMTQuMiA5Ljk5OTk5IDE0LjJaTTQgM0M0IDEuODkgMy4xMSAxIDIgMUMwLjg5IDEgMCAxLjg5IDAgM0MwIDMuNzMgMC40MSA0LjM4IDEgNC43MkMxIDYuMjcgMSAxMC4yOCAxIDExLjI4QzAuNDEgMTEuNjIgMCAxMi4yNiAwIDEzQzAgMTQuMTEgMC44OSAxNSAyIDE1QzMuMTEgMTUgNCAxNC4xMSA0IDEzQzQgMTIuMjcgMy41OSAxMS42MiAzIDExLjI4VjQuNzJDMy41OSA0LjM4IDQgMy43NCA0IDNaTTMuMTk5OTkgMTNDMy4xOTk5OSAxMy42NiAyLjY0OTk5IDE0LjIgMS45OTk5OSAxNC4yQzEuMzQ5OTkgMTQuMiAwLjc5OTk4OCAxMy42NSAwLjc5OTk4OCAxM0MwLjc5OTk4OCAxMi4zNSAxLjM0OTk5IDExLjggMS45OTk5OSAxMS44QzIuNjQ5OTkgMTEuOCAzLjE5OTk5IDEyLjM1IDMuMTk5OTkgMTNaTTEuOTk5OTkgNC4yQzEuMzM5OTkgNC4yIDAuNzk5OTg4IDMuNjUgMC43OTk5ODggM0MwLjc5OTk4OCAyLjM1IDEuMzQ5OTkgMS44IDEuOTk5OTkgMS44QzIuNjQ5OTkgMS44IDMuMTk5OTkgMi4zNSAzLjE5OTk5IDNDMy4xOTk5OSAzLjY1IDIuNjQ5OTkgNC4yIDEuOTk5OTkgNC4yWiIgZmlsbD0iIzFCMUYyMyIvPiYjeGE7PC9zdmc+" preserveAspectRatio="none" pointer-events="none"/>
+    <image x="907.5" y="1221" width="12" height="16" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDEyIDE2IiBmaWxsPSJub25lIj4mI3hhOzxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMTEgMTEuMjhDMTEgOS41NSAxMSA1IDExIDVDMTAuOTcgNC4yMiAxMC42NiAzLjUzIDEwLjA2IDIuOTRDOS40NiAyLjM1IDguNzggMi4wMyA4IDJDOCAyIDYuOTggMiA3IDJWMEw0IDNMNyA2VjRIOEM4LjI3IDQuMDIgOC40OCA0LjExIDguNjkgNC4zMUM4LjkgNC41MSA4Ljk5IDQuNzMgOSA1VjExLjI4QzguNDEgMTEuNjIgOCAxMi4yNiA4IDEzQzggMTQuMTEgOC44OSAxNSAxMCAxNUMxMS4xMSAxNSAxMiAxNC4xMSAxMiAxM0MxMiAxMi4yNyAxMS41OSAxMS42MiAxMSAxMS4yOFpNOS45OTk5OSAxNC4yQzkuMzM5OTkgMTQuMiA4Ljc5OTk5IDEzLjY1IDguNzk5OTkgMTNDOC43OTk5OSAxMi4zNSA5LjM0OTk5IDExLjggOS45OTk5OSAxMS44QzEwLjY1IDExLjggMTEuMiAxMi4zNSAxMS4yIDEzQzExLjIgMTMuNjUgMTAuNjUgMTQuMiA5Ljk5OTk5IDE0LjJaTTQgM0M0IDEuODkgMy4xMSAxIDIgMUMwLjg5IDEgMCAxLjg5IDAgM0MwIDMuNzMgMC40MSA0LjM4IDEgNC43MkMxIDYuMjcgMSAxMC4yOCAxIDExLjI4QzAuNDEgMTEuNjIgMCAxMi4yNiAwIDEzQzAgMTQuMTEgMC44OSAxNSAyIDE1QzMuMTEgMTUgNCAxNC4xMSA0IDEzQzQgMTIuMjcgMy41OSAxMS42MiAzIDExLjI4VjQuNzJDMy41OSA0LjM4IDQgMy43NCA0IDNaTTMuMTk5OTkgMTNDMy4xOTk5OSAxMy42NiAyLjY0OTk5IDE0LjIgMS45OTk5OSAxNC4yQzEuMzQ5OTkgMTQuMiAwLjc5OTk4OCAxMy42NSAwLjc5OTk4OCAxM0MwLjc5OTk4OCAxMi4zNSAxLjM0OTk5IDExLjggMS45OTk5OSAxMS44QzIuNjQ5OTkgMTEuOCAzLjE5OTk5IDEyLjM1IDMuMTk5OTkgMTNaTTEuOTk5OTkgNC4yQzEuMzM5OTkgNC4yIDAuNzk5OTg4IDMuNjUgMC43OTk5ODggM0MwLjc5OTk4OCAyLjM1IDEuMzQ5OTkgMS44IDEuOTk5OTkgMS44QzIuNjQ5OTkgMS44IDMuMTk5OTkgMi4zNSAzLjE5OTk5IDNDMy4xOTk5OSAzLjY1IDIuNjQ5OTkgNC4yIDEuOTk5OTkgNC4yWiIgZmlsbD0iIzFCMUYyMyIvPiYjeGE7PC9zdmc+" preserveAspectRatio="none" pointer-events="none"/>
     <a xlink:href="https://github.com/clojure/clojurescript-site/pulls?utf8=%E2%9C%93&amp;q=author%3Alread+" target="_blank">
-      <ellipse cx="984.5" cy="1335" rx="60" ry="40" fill="#ffffff" stroke="#000000" pointer-events="fill"/>
-      <g transform="translate(946.5,1321.5)">
+      <ellipse cx="1197" cy="1138.5" rx="60" ry="40" fill="#ffffff" stroke="#000000" pointer-events="fill"/>
+      <g transform="translate(1158.5,1125.5)">
         <switch>
           <foreignObject style="overflow:visible;" pointer-events="none" width="76" height="26" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
             <uyc:div xmlns:uyc="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 76px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
@@ -1198,7 +1198,7 @@ a &gt; ellipse:hover {
         </switch>
       </g>
     </a>
-    <image x="1026" y="1326.5" width="12" height="16" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDEyIDE2IiBmaWxsPSJub25lIj4mI3hhOzxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMTEgMTEuMjhDMTEgOS41NSAxMSA1IDExIDVDMTAuOTcgNC4yMiAxMC42NiAzLjUzIDEwLjA2IDIuOTRDOS40NiAyLjM1IDguNzggMi4wMyA4IDJDOCAyIDYuOTggMiA3IDJWMEw0IDNMNyA2VjRIOEM4LjI3IDQuMDIgOC40OCA0LjExIDguNjkgNC4zMUM4LjkgNC41MSA4Ljk5IDQuNzMgOSA1VjExLjI4QzguNDEgMTEuNjIgOCAxMi4yNiA4IDEzQzggMTQuMTEgOC44OSAxNSAxMCAxNUMxMS4xMSAxNSAxMiAxNC4xMSAxMiAxM0MxMiAxMi4yNyAxMS41OSAxMS42MiAxMSAxMS4yOFpNOS45OTk5OSAxNC4yQzkuMzM5OTkgMTQuMiA4Ljc5OTk5IDEzLjY1IDguNzk5OTkgMTNDOC43OTk5OSAxMi4zNSA5LjM0OTk5IDExLjggOS45OTk5OSAxMS44QzEwLjY1IDExLjggMTEuMiAxMi4zNSAxMS4yIDEzQzExLjIgMTMuNjUgMTAuNjUgMTQuMiA5Ljk5OTk5IDE0LjJaTTQgM0M0IDEuODkgMy4xMSAxIDIgMUMwLjg5IDEgMCAxLjg5IDAgM0MwIDMuNzMgMC40MSA0LjM4IDEgNC43MkMxIDYuMjcgMSAxMC4yOCAxIDExLjI4QzAuNDEgMTEuNjIgMCAxMi4yNiAwIDEzQzAgMTQuMTEgMC44OSAxNSAyIDE1QzMuMTEgMTUgNCAxNC4xMSA0IDEzQzQgMTIuMjcgMy41OSAxMS42MiAzIDExLjI4VjQuNzJDMy41OSA0LjM4IDQgMy43NCA0IDNaTTMuMTk5OTkgMTNDMy4xOTk5OSAxMy42NiAyLjY0OTk5IDE0LjIgMS45OTk5OSAxNC4yQzEuMzQ5OTkgMTQuMiAwLjc5OTk4OCAxMy42NSAwLjc5OTk4OCAxM0MwLjc5OTk4OCAxMi4zNSAxLjM0OTk5IDExLjggMS45OTk5OSAxMS44QzIuNjQ5OTkgMTEuOCAzLjE5OTk5IDEyLjM1IDMuMTk5OTkgMTNaTTEuOTk5OTkgNC4yQzEuMzM5OTkgNC4yIDAuNzk5OTg4IDMuNjUgMC43OTk5ODggM0MwLjc5OTk4OCAyLjM1IDEuMzQ5OTkgMS44IDEuOTk5OTkgMS44QzIuNjQ5OTkgMS44IDMuMTk5OTkgMi4zNSAzLjE5OTk5IDNDMy4xOTk5OSAzLjY1IDIuNjQ5OTkgNC4yIDEuOTk5OTkgNC4yWiIgZmlsbD0iIzFCMUYyMyIvPiYjeGE7PC9zdmc+" preserveAspectRatio="none" pointer-events="none"/>
+    <image x="1238.5" y="1130" width="12" height="16" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDEyIDE2IiBmaWxsPSJub25lIj4mI3hhOzxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMTEgMTEuMjhDMTEgOS41NSAxMSA1IDExIDVDMTAuOTcgNC4yMiAxMC42NiAzLjUzIDEwLjA2IDIuOTRDOS40NiAyLjM1IDguNzggMi4wMyA4IDJDOCAyIDYuOTggMiA3IDJWMEw0IDNMNyA2VjRIOEM4LjI3IDQuMDIgOC40OCA0LjExIDguNjkgNC4zMUM4LjkgNC41MSA4Ljk5IDQuNzMgOSA1VjExLjI4QzguNDEgMTEuNjIgOCAxMi4yNiA4IDEzQzggMTQuMTEgOC44OSAxNSAxMCAxNUMxMS4xMSAxNSAxMiAxNC4xMSAxMiAxM0MxMiAxMi4yNyAxMS41OSAxMS42MiAxMSAxMS4yOFpNOS45OTk5OSAxNC4yQzkuMzM5OTkgMTQuMiA4Ljc5OTk5IDEzLjY1IDguNzk5OTkgMTNDOC43OTk5OSAxMi4zNSA5LjM0OTk5IDExLjggOS45OTk5OSAxMS44QzEwLjY1IDExLjggMTEuMiAxMi4zNSAxMS4yIDEzQzExLjIgMTMuNjUgMTAuNjUgMTQuMiA5Ljk5OTk5IDE0LjJaTTQgM0M0IDEuODkgMy4xMSAxIDIgMUMwLjg5IDEgMCAxLjg5IDAgM0MwIDMuNzMgMC40MSA0LjM4IDEgNC43MkMxIDYuMjcgMSAxMC4yOCAxIDExLjI4QzAuNDEgMTEuNjIgMCAxMi4yNiAwIDEzQzAgMTQuMTEgMC44OSAxNSAyIDE1QzMuMTEgMTUgNCAxNC4xMSA0IDEzQzQgMTIuMjcgMy41OSAxMS42MiAzIDExLjI4VjQuNzJDMy41OSA0LjM4IDQgMy43NCA0IDNaTTMuMTk5OTkgMTNDMy4xOTk5OSAxMy42NiAyLjY0OTk5IDE0LjIgMS45OTk5OSAxNC4yQzEuMzQ5OTkgMTQuMiAwLjc5OTk4OCAxMy42NSAwLjc5OTk4OCAxM0MwLjc5OTk4OCAxMi4zNSAxLjM0OTk5IDExLjggMS45OTk5OSAxMS44QzIuNjQ5OTkgMTEuOCAzLjE5OTk5IDEyLjM1IDMuMTk5OTkgMTNaTTEuOTk5OTkgNC4yQzEuMzM5OTkgNC4yIDAuNzk5OTg4IDMuNjUgMC43OTk5ODggM0MwLjc5OTk4OCAyLjM1IDEuMzQ5OTkgMS44IDEuOTk5OTkgMS44QzIuNjQ5OTkgMS44IDMuMTk5OTkgMi4zNSAzLjE5OTk5IDNDMy4xOTk5OSAzLjY1IDIuNjQ5OTkgNC4yIDEuOTk5OTkgNC4yWiIgZmlsbD0iIzFCMUYyMyIvPiYjeGE7PC9zdmc+" preserveAspectRatio="none" pointer-events="none"/>
     <a xlink:href="https://github.com/ztellman/potemkin" target="_blank">
       <ellipse cx="139.5" cy="1393" rx="60" ry="40" fill="none" stroke="#000000" pointer-events="fill"/>
       <g transform="translate(104.5,1379.5)">
@@ -1576,5 +1576,157 @@ a &gt; ellipse:hover {
     <image x="1656" y="1886.5" width="16" height="16" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2IiBmaWxsPSJub25lIj4mI3hhOzxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMTQuMzc5NyAxNC41OUwxMC45OTk3IDdWM0gxMS45OTk3VjJIMi45OTk3M1YzSDMuOTk5NzNWN0wwLjYyOTcyNiAxNC41OUMwLjMyOTcyNiAxNS4yNSAwLjgxOTcyNiAxNiAxLjUzOTczIDE2SDEzLjQ3OTdDMTQuMTk5NyAxNiAxNC42Nzk3IDE1LjI1IDE0LjM4OTcgMTQuNTlIMTQuMzc5N1pNMy43NDk3MyAxMEw0Ljk5OTczIDdWM0g5Ljk5OTczVjdMMTEuMjQ5NyAxMEgzLjc0OTczWk03Ljk5OTczIDhIOC45OTk3M1Y5SDcuOTk5NzNWOFpNNi45OTk3MyA3SDUuOTk5NzNWNkg2Ljk5OTczVjdaTTYuOTk5NzMgNEg3Ljk5OTczVjVINi45OTk3M1Y0Wk02Ljk5OTczIDFINS45OTk3M1YwSDYuOTk5NzNWMVoiIGZpbGw9IiMxQjFGMjMiLz4mI3hhOzwvc3ZnPg==" preserveAspectRatio="none" pointer-events="none"/>
     <path d="M 1547.96 1942 L 1568.9 1926.99" fill="none" stroke="#000000" stroke-miterlimit="10"/>
     <path d="M 1573.16 1923.94 L 1569.51 1930.86 L 1568.9 1926.99 L 1565.44 1925.17 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M 1029.25 1010 C 990.25 1010 980.5 1032 1011.7 1036.4 C 980.5 1046.08 1015.6 1067.2 1040.95 1058.4 C 1058.5 1076 1117 1076 1136.5 1058.4 C 1175.5 1058.4 1175.5 1040.8 1151.13 1032 C 1175.5 1014.4 1136.5 996.8 1102.38 1005.6 C 1078 992.4 1039 992.4 1029.25 1010 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"/>
+    <g transform="translate(1026.5,1011.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="none" width="103" height="40" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <cyd:div xmlns:cyd="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 103px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <cyd:div style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">
+              oh well, sometimes
+              <cyd:br/>
+              a gift is
+              <cyd:br/>
+              a burden
+            </cyd:div>
+          </cyd:div>
+        </foreignObject>
+        <text x="52" y="26" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">[Not supported by viewer]</text>
+      </switch>
+    </g>
+    <path d="M 1013.5 965 L 1053.3 993.12" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M 1057.59 996.15 L 1049.85 994.97 L 1053.3 993.12 L 1053.89 989.26 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+    <ellipse cx="953.5" cy="1311" rx="60" ry="40" fill="#ffffff" stroke="#000000" pointer-events="fill"/>
+    <g transform="translate(916.5,1290.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="none" width="74" height="40" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <gzd:div xmlns:gzd="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 76px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <gzd:div style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">
+              quietly upload
+              <gzd:br/>
+              a clj-kondo
+              <gzd:br/>
+              icon to Slack
+            </gzd:div>
+          </gzd:div>
+        </foreignObject>
+        <text x="37" y="26" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">[Not supported by viewer]</text>
+      </switch>
+    </g>
+    <path d="M 863.1 1395 L 913.95 1347.88" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M 917.81 1344.31 L 915.05 1351.63 L 913.95 1347.88 L 910.29 1346.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M 1062.5 1258 C 1035.3 1258 1028.5 1287 1050.26 1292.8 C 1028.5 1305.56 1052.98 1333.4 1070.66 1321.8 C 1082.9 1345 1123.7 1345 1137.3 1321.8 C 1164.5 1321.8 1164.5 1298.6 1147.5 1287 C 1164.5 1263.8 1137.3 1240.6 1113.5 1252.2 C 1096.5 1234.8 1069.3 1234.8 1062.5 1258 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"/>
+    <g transform="translate(1051.5,1252.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="none" width="90" height="68" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <hae:div xmlns:hae="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 92px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <hae:div style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">
+              borkdude
+              <hae:br/>
+              notices it, likes it,
+              <hae:br/>
+              uses it,
+              <hae:br/>
+              and and hopes
+              <hae:br/>
+              for a PR
+            </hae:div>
+          </hae:div>
+        </foreignObject>
+        <text x="45" y="40" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">[Not supported by viewer]</text>
+      </switch>
+    </g>
+    <path d="M 1013.5 1311 L 1039.97 1316.93" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M 1045.09 1318.08 L 1037.49 1319.96 L 1039.97 1316.93 L 1039.02 1313.13 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+    <a xlink:href="https://github.com/borkdude/clj-kondo/pulls?utf8=%E2%9C%93&amp;q=+author%3Alread+" target="_blank">
+      <ellipse cx="1249" cy="1261.5" rx="60" ry="40" fill="#ffffff" stroke="#000000" pointer-events="fill"/>
+      <g transform="translate(1220.5,1255.5)">
+        <switch>
+          <foreignObject style="overflow:visible;" pointer-events="none" width="56" height="12" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <mbe:div xmlns:mbe="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 56px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+              <mbe:div style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">clj-kondo</mbe:div>
+            </mbe:div>
+          </foreignObject>
+          <text x="28" y="12" fill="#000000" text-anchor="middle" font-size="12px" font-family="Arvo">clj-kondo</text>
+        </switch>
+      </g>
+    </a>
+    <image x="1290.5" y="1253" width="12" height="16" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDEyIDE2IiBmaWxsPSJub25lIj4mI3hhOzxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMTEgMTEuMjhDMTEgOS41NSAxMSA1IDExIDVDMTAuOTcgNC4yMiAxMC42NiAzLjUzIDEwLjA2IDIuOTRDOS40NiAyLjM1IDguNzggMi4wMyA4IDJDOCAyIDYuOTggMiA3IDJWMEw0IDNMNyA2VjRIOEM4LjI3IDQuMDIgOC40OCA0LjExIDguNjkgNC4zMUM4LjkgNC41MSA4Ljk5IDQuNzMgOSA1VjExLjI4QzguNDEgMTEuNjIgOCAxMi4yNiA4IDEzQzggMTQuMTEgOC44OSAxNSAxMCAxNUMxMS4xMSAxNSAxMiAxNC4xMSAxMiAxM0MxMiAxMi4yNyAxMS41OSAxMS42MiAxMSAxMS4yOFpNOS45OTk5OSAxNC4yQzkuMzM5OTkgMTQuMiA4Ljc5OTk5IDEzLjY1IDguNzk5OTkgMTNDOC43OTk5OSAxMi4zNSA5LjM0OTk5IDExLjggOS45OTk5OSAxMS44QzEwLjY1IDExLjggMTEuMiAxMi4zNSAxMS4yIDEzQzExLjIgMTMuNjUgMTAuNjUgMTQuMiA5Ljk5OTk5IDE0LjJaTTQgM0M0IDEuODkgMy4xMSAxIDIgMUMwLjg5IDEgMCAxLjg5IDAgM0MwIDMuNzMgMC40MSA0LjM4IDEgNC43MkMxIDYuMjcgMSAxMC4yOCAxIDExLjI4QzAuNDEgMTEuNjIgMCAxMi4yNiAwIDEzQzAgMTQuMTEgMC44OSAxNSAyIDE1QzMuMTEgMTUgNCAxNC4xMSA0IDEzQzQgMTIuMjcgMy41OSAxMS42MiAzIDExLjI4VjQuNzJDMy41OSA0LjM4IDQgMy43NCA0IDNaTTMuMTk5OTkgMTNDMy4xOTk5OSAxMy42NiAyLjY0OTk5IDE0LjIgMS45OTk5OSAxNC4yQzEuMzQ5OTkgMTQuMiAwLjc5OTk4OCAxMy42NSAwLjc5OTk4OCAxM0MwLjc5OTk4OCAxMi4zNSAxLjM0OTk5IDExLjggMS45OTk5OSAxMS44QzIuNjQ5OTkgMTEuOCAzLjE5OTk5IDEyLjM1IDMuMTk5OTkgMTNaTTEuOTk5OTkgNC4yQzEuMzM5OTkgNC4yIDAuNzk5OTg4IDMuNjUgMC43OTk5ODggM0MwLjc5OTk4OCAyLjM1IDEuMzQ5OTkgMS44IDEuOTk5OTkgMS44QzIuNjQ5OTkgMS44IDMuMTk5OTkgMi4zNSAzLjE5OTk5IDNDMy4xOTk5OSAzLjY1IDIuNjQ5OTkgNC4yIDEuOTk5OTkgNC4yWiIgZmlsbD0iIzFCMUYyMyIvPiYjeGE7PC9zdmc+" preserveAspectRatio="none" pointer-events="none"/>
+    <path d="M 1147.5 1287 L 1183.57 1264.83" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M 1188.05 1262.09 L 1183.92 1268.73 L 1183.57 1264.83 L 1180.25 1262.77 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M 1240.5 1347.5 C 1212.1 1347.5 1205 1370 1227.72 1374.5 C 1205 1384.4 1230.56 1406 1249.02 1397 C 1261.8 1415 1304.4 1415 1318.6 1397 C 1347 1397 1347 1379 1329.25 1370 C 1347 1352 1318.6 1334 1293.75 1343 C 1276 1329.5 1247.6 1329.5 1240.5 1347.5 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"/>
+    <g transform="translate(1236.5,1349.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="none" width="78" height="40" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <tce:div xmlns:tce="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 78px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <tce:div style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">
+              clj-kondo
+              <tce:br/>
+              stickers on the
+              <tce:br/>
+              way! coolio!
+            </tce:div>
+          </tce:div>
+        </foreignObject>
+        <text x="39" y="26" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">[Not supported by viewer]</text>
+      </switch>
+    </g>
+    <path d="M 1269.43 1299.11 L 1290.66 1337.43" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M 1293.21 1342.02 L 1286.75 1337.6 L 1290.66 1337.43 L 1292.88 1334.2 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M 1284.25 2119 C 1250.45 2119 1242 2146 1269.04 2151.4 C 1242 2163.28 1272.42 2189.2 1294.39 2178.4 C 1309.6 2200 1360.3 2200 1377.2 2178.4 C 1411 2178.4 1411 2156.8 1389.88 2146 C 1411 2124.4 1377.2 2102.8 1347.63 2113.6 C 1326.5 2097.4 1292.7 2097.4 1284.25 2119 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"/>
+    <g transform="translate(1285.5,2118.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="none" width="81" height="54" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <ude:div xmlns:ude="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 81px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <ude:div style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">
+              dang, I really
+              <ude:br/>
+              should hit the
+              <ude:br/>
+              4cljojure site to
+              <ude:br/>
+              practice
+            </ude:div>
+          </ude:div>
+        </foreignObject>
+        <text x="41" y="33" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">[Not supported by viewer]</text>
+      </switch>
+    </g>
+    <path d="M 1333.5 2062.17 L 1312.83 2097.31" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M 1310.17 2101.84 L 1310.7 2094.03 L 1312.83 2097.31 L 1316.73 2097.58 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+    <a xlink:href="http://www.4clojure.com/user/lread" target="_blank">
+      <ellipse cx="1344" cy="2276" rx="60" ry="40" fill="none" stroke="#000000" pointer-events="fill"/>
+      <g transform="translate(1319.5,2269.5)">
+        <switch>
+          <foreignObject style="overflow:visible;" pointer-events="none" width="48" height="12" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <zee:div xmlns:zee="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 50px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+              <zee:div style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">4clojure</zee:div>
+            </zee:div>
+          </foreignObject>
+          <text x="24" y="12" fill="#000000" text-anchor="middle" font-size="12px" font-family="Arvo">4clojure</text>
+        </switch>
+      </g>
+    </a>
+    <image x="1384" y="2267.5" width="16" height="16" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2IiBmaWxsPSJub25lIj4mI3hhOzxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNOC4xMTAwMSAyLjhDOC4wNTAwMSAyLjc4IDcuOTcwMDEgMi43OCA3LjkxMDAxIDIuOEwwLjI3MDAwNyA1LjE4Qy0wLjA1OTk5MzMgNS4yOSAtMC4wNTk5OTMzIDUuNzQgMC4yNzAwMDcgNS44NUwyLjAwMDAxIDYuNFY4LjE3QzEuNzAwMDEgOC4zNCAxLjUwMDAxIDguNjcgMS41MDAwMSA5LjAzQzEuNTAwMDEgOS4yMiAxLjU1MDAxIDkuMzkgMS42NDAwMSA5LjUzQzEuNTYwMDEgOS42NyAxLjUwMDAxIDkuODQgMS41MDAwMSAxMC4wM1YxMi42MUMxLjUwMDAxIDEzLjE2IDMuNTAwMDEgMTMuMTYgMy41MDAwMSAxMi42MVYxMC4wM0MzLjUwMDAxIDkuODQgMy40NTAwMSA5LjY3IDMuMzYwMDEgOS41M0MzLjQ0MDAxIDkuMzkgMy41MDAwMSA5LjIyIDMuNTAwMDEgOS4wM0MzLjUwMDAxIDguNjUgMy4zMDAwMSA4LjM0IDMuMDAwMDEgOC4xN1Y2LjcyTDcuODkwMDEgOC4yNUM3Ljk1MDAxIDguMjcgOC4wMzAwMSA4LjI3IDguMDkwMDEgOC4yNUwxNS43MyA1Ljg3QzE2LjA2IDUuNzYgMTYuMDYgNS4zMSAxNS43MyA1LjJMOC4xMDAwMSAyLjgxTDguMTEwMDEgMi44Wk00LjAwMDAxIDhMNy44MzAwMSA5LjE5SDcuODEwMDFDNy45NDAwMSA5LjIyIDguMDYwMDEgOS4yMiA4LjE3MDAxIDkuMTlMMTIgOFYxMC41QzEyIDExLjUgMTAuMiAxMiA4LjAwMDAxIDEyQzUuODAwMDEgMTIgNC4wMDAwMSAxMS41IDQuMDAwMDEgMTAuNVY4Wk03LjAyMDAxIDUuNUM3LjAyMDAxIDUuNzggNy40NzAwMSA2IDguMDIwMDEgNkM4LjU3MDAxIDYgOS4wMjAwMSA1Ljc4IDkuMDIwMDEgNS41QzkuMDIwMDEgNS4yMiA4LjU3MDAxIDUgOC4wMjAwMSA1QzcuNDcwMDEgNSA3LjAyMDAxIDUuMjIgNy4wMjAwMSA1LjVaIiBmaWxsPSIjMUIxRjIzIi8+JiN4YTs8L3N2Zz4=" preserveAspectRatio="none" pointer-events="none"/>
+    <path d="M 1334.95 2194.6 L 1342.64 2229.78" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M 1343.76 2234.91 L 1338.85 2228.82 L 1342.64 2229.78 L 1345.69 2227.32 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M 1153.25 2251.5 C 1124.65 2251.5 1117.5 2273 1140.38 2277.3 C 1117.5 2286.76 1143.24 2307.4 1161.83 2298.8 C 1174.7 2316 1217.6 2316 1231.9 2298.8 C 1260.5 2298.8 1260.5 2281.6 1242.63 2273 C 1260.5 2255.8 1231.9 2238.6 1206.88 2247.2 C 1189 2234.3 1160.4 2234.3 1153.25 2251.5 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"/>
+    <g transform="translate(1159.5,2259.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="none" width="59" height="26" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <gge:div xmlns:gge="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 59px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+            <gge:div style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">
+              yeah, I this
+              <gge:br/>
+              helping!
+            </gge:div>
+          </gge:div>
+        </foreignObject>
+        <text x="30" y="19" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">yeah, I this&lt;br&gt;helping!</text>
+      </switch>
+    </g>
+    <path d="M 1301.57 2304.28 L 1260.88 2292.04" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M 1255.85 2290.52 L 1263.56 2289.19 L 1260.88 2292.04 L 1261.54 2295.89 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M 1243.34 2251.5 L 1295.22 2248.13" fill="none" stroke="#000000" stroke-miterlimit="10"/>
+    <path d="M 1300.46 2247.79 L 1293.7 2251.73 L 1295.22 2248.13 L 1293.25 2244.75 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10"/>
   </g>
 </svg>
