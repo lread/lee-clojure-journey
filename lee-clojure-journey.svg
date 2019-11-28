@@ -52,7 +52,9 @@ a &gt; ellipse:hover {
               <ae:div style="font-size: 12px">this is fun!</ae:div>
               <ae:div style="font-size: 12px">community is</ae:div>
               <ae:div style="font-size: 12px">generous. I'd like to</ae:div>
-              <ae:div style="font-size: 12px">give back<ae:br style="font-size: 12px"/>
+              <ae:div style="font-size: 12px">
+                give back
+                <ae:br style="font-size: 12px"/>
               </ae:div>
             </ae:div>
           </ae:div>
@@ -67,7 +69,15 @@ a &gt; ellipse:hover {
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="none" width="97" height="54" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <jf:div xmlns:jf="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <jf:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">hmm something<jf:br style="font-size: 12px"/> needs love<jf:br style="font-size: 12px"/> in rewrite-clj<jf:br style="font-size: 12px"/>to fix an issue</jf:div>
+            <jf:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              hmm something
+              <jf:br style="font-size: 12px"/>
+               needs love
+              <jf:br style="font-size: 12px"/>
+               in rewrite-clj
+              <jf:br style="font-size: 12px"/>
+              to fix an issue
+            </jf:div>
           </jf:div>
         </foreignObject>
         <text x="49" y="33" fill="#000000" text-anchor="middle" font-size="12px" font-family="Arvo">[Not supported by viewer]</text>
@@ -83,9 +93,13 @@ a &gt; ellipse:hover {
         <foreignObject style="overflow:visible;" pointer-events="none" width="111" height="82" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <ah:div xmlns:ah="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <ah:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">
-              <ah:div style="font-size: 12px">oh,<ah:br style="font-size: 12px"/>
+              <ah:div style="font-size: 12px">
+                oh,
+                <ah:br style="font-size: 12px"/>
               </ah:div>
-              <ah:div style="font-size: 12px">rewrite-cljs is <ah:br style="font-size: 12px"/>
+              <ah:div style="font-size: 12px">
+                rewrite-cljs is 
+                <ah:br style="font-size: 12px"/>
               </ah:div>
               <ah:div style="font-size: 12px">out of date</ah:div>
               <ah:div style="font-size: 12px">which makes some</ah:div>
@@ -109,11 +123,17 @@ a &gt; ellipse:hover {
         <foreignObject style="overflow:visible;" pointer-events="none" width="122" height="40" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <xi:div xmlns:xi="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <xi:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">
-              <xi:div style="font-size: 12px">maybe I <xi:br style="font-size: 12px"/>
+              <xi:div style="font-size: 12px">
+                maybe I 
+                <xi:br style="font-size: 12px"/>
               </xi:div>
-              <xi:div style="font-size: 12px">should try to develop<xi:br style="font-size: 12px"/>
+              <xi:div style="font-size: 12px">
+                should try to develop
+                <xi:br style="font-size: 12px"/>
               </xi:div>
-              <xi:div style="font-size: 12px">a cljc version<xi:br style="font-size: 12px"/>
+              <xi:div style="font-size: 12px">
+                a cljc version
+                <xi:br style="font-size: 12px"/>
               </xi:div>
             </xi:div>
           </xi:div>
@@ -135,7 +155,9 @@ a &gt; ellipse:hover {
               <rk:div style="font-size: 12px">import-vars,</rk:div>
               <rk:div style="font-size: 12px"> can I replicate</rk:div>
               <rk:div style="font-size: 12px">import-vars</rk:div>
-              <rk:div style="font-size: 12px">in cljs?<rk:br style="font-size: 12px"/>
+              <rk:div style="font-size: 12px">
+                in cljs?
+                <rk:br style="font-size: 12px"/>
               </rk:div>
             </rk:div>
           </rk:div>
@@ -155,7 +177,9 @@ a &gt; ellipse:hover {
             <lm:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <lm:div style="font-size: 12px">oh cljdoc</lm:div>
               <lm:div style="font-size: 12px">does not understand</lm:div>
-              <lm:div style="font-size: 12px">cljs import-vars<lm:br style="font-size: 12px"/>
+              <lm:div style="font-size: 12px">
+                cljs import-vars
+                <lm:br style="font-size: 12px"/>
               </lm:div>
               <lm:div style="font-size: 12px">
                 <lm:br style="font-size: 12px"/>
@@ -174,11 +198,15 @@ a &gt; ellipse:hover {
         <foreignObject style="overflow:visible;" pointer-events="none" width="172" height="54" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <vn:div xmlns:vn="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <vn:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">
-              <vn:div style="font-size: 12px">would love to compare <vn:br style="font-size: 12px"/>
+              <vn:div style="font-size: 12px">
+                would love to compare 
+                <vn:br style="font-size: 12px"/>
               </vn:div>
               <vn:div style="font-size: 12px">rewrite-cljs, rewite-clj and</vn:div>
               <vn:div style="font-size: 12px">rewrite-cljc apis to make sure</vn:div>
-              <vn:div style="font-size: 12px">I've not broken them<vn:br style="font-size: 12px"/>
+              <vn:div style="font-size: 12px">
+                I've not broken them
+                <vn:br style="font-size: 12px"/>
               </vn:div>
             </vn:div>
           </vn:div>
@@ -198,9 +226,13 @@ a &gt; ellipse:hover {
         <foreignObject style="overflow:visible;" pointer-events="none" width="132" height="40" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <zp:div xmlns:zp="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 132px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
             <zp:div style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">
-              <zp:div style="font-size: 12px">would love to suppress <zp:br style="font-size: 12px"/>
+              <zp:div style="font-size: 12px">
+                would love to suppress 
+                <zp:br style="font-size: 12px"/>
               </zp:div>
-              <zp:div style="font-size: 12px">particular cljs <zp:br style="font-size: 12px"/>
+              <zp:div style="font-size: 12px">
+                particular cljs 
+                <zp:br style="font-size: 12px"/>
               </zp:div>
               <zp:div style="font-size: 12px">deprecation warnings</zp:div>
             </zp:div>
@@ -221,13 +253,21 @@ a &gt; ellipse:hover {
         <foreignObject style="overflow:visible;" pointer-events="none" width="113" height="54" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <cs:div xmlns:cs="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <cs:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">
-              <cs:div style="font-size: 12px">oh, maybe I <cs:br style="font-size: 12px"/>
+              <cs:div style="font-size: 12px">
+                oh, maybe I 
+                <cs:br style="font-size: 12px"/>
               </cs:div>
-              <cs:div style="font-size: 12px">can help with <cs:br style="font-size: 12px"/>
+              <cs:div style="font-size: 12px">
+                can help with 
+                <cs:br style="font-size: 12px"/>
               </cs:div>
-              <cs:div style="font-size: 12px">these other things I<cs:br style="font-size: 12px"/>
+              <cs:div style="font-size: 12px">
+                these other things I
+                <cs:br style="font-size: 12px"/>
               </cs:div>
-              <cs:div style="font-size: 12px">noticed<cs:br style="font-size: 12px"/>
+              <cs:div style="font-size: 12px">
+                noticed
+                <cs:br style="font-size: 12px"/>
               </cs:div>
             </cs:div>
           </cs:div>
@@ -243,10 +283,14 @@ a &gt; ellipse:hover {
         <foreignObject style="overflow:visible;" pointer-events="none" width="91" height="40" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <ot:div xmlns:ot="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 91px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
             <ot:div style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">
-              <ot:div style="font-size: 12px">oh my docs <ot:br style="font-size: 12px"/>
+              <ot:div style="font-size: 12px">
+                oh my docs 
+                <ot:br style="font-size: 12px"/>
               </ot:div>
               <ot:div style="font-size: 12px">don't look great</ot:div>
-              <ot:div style="font-size: 12px">in cljdoc<ot:br style="font-size: 12px"/>
+              <ot:div style="font-size: 12px">
+                in cljdoc
+                <ot:br style="font-size: 12px"/>
               </ot:div>
             </ot:div>
           </ot:div>
@@ -264,13 +308,19 @@ a &gt; ellipse:hover {
         <foreignObject style="overflow:visible;" pointer-events="none" width="125" height="68" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <hv:div xmlns:hv="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <hv:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">
-              <hv:div style="font-size: 12px">gee Martin is <hv:br style="font-size: 12px"/>
+              <hv:div style="font-size: 12px">
+                gee Martin is 
+                <hv:br style="font-size: 12px"/>
               </hv:div>
               <hv:div style="font-size: 12px">good to work</hv:div>
               <hv:div style="font-size: 12px">with maybe I</hv:div>
-              <hv:div style="font-size: 12px">can help with these <hv:br style="font-size: 12px"/>
+              <hv:div style="font-size: 12px">
+                can help with these 
+                <hv:br style="font-size: 12px"/>
               </hv:div>
-              <hv:div style="font-size: 12px">other things I noticed<hv:br style="font-size: 12px"/>
+              <hv:div style="font-size: 12px">
+                other things I noticed
+                <hv:br style="font-size: 12px"/>
               </hv:div>
             </hv:div>
           </hv:div>
@@ -287,7 +337,9 @@ a &gt; ellipse:hover {
           <tw:div xmlns:tw="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <tw:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <tw:div style="font-size: 12px">oh looky!</tw:div>
-              <tw:div style="font-size: 12px">clj-kondo!<tw:br style="font-size: 12px"/>
+              <tw:div style="font-size: 12px">
+                clj-kondo!
+                <tw:br style="font-size: 12px"/>
               </tw:div>
             </tw:div>
           </tw:div>
@@ -305,7 +357,9 @@ a &gt; ellipse:hover {
             <ay:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <ay:div style="font-size: 12px">suggest</ay:div>
               <ay:div style="font-size: 12px">features &amp;</ay:div>
-              <ay:div style="font-size: 12px">test<ay:br style="font-size: 12px"/>
+              <ay:div style="font-size: 12px">
+                test
+                <ay:br style="font-size: 12px"/>
               </ay:div>
             </ay:div>
           </ay:div>
@@ -322,11 +376,15 @@ a &gt; ellipse:hover {
           <foreignObject style="overflow:visible;" pointer-events="none" width="63" height="54" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
             <jz:div xmlns:jz="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
               <jz:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">
-                <jz:div style="font-size: 12px">I need to <jz:br style="font-size: 12px"/>
+                <jz:div style="font-size: 12px">
+                  I need to 
+                  <jz:br style="font-size: 12px"/>
                 </jz:div>
                 <jz:div style="font-size: 12px">customize</jz:div>
                 <jz:div style="font-size: 12px">a GnuCash</jz:div>
-                <jz:div style="font-size: 12px">report<jz:br style="font-size: 12px"/>
+                <jz:div style="font-size: 12px">
+                  report
+                  <jz:br style="font-size: 12px"/>
                 </jz:div>
               </jz:div>
             </jz:div>
@@ -342,7 +400,9 @@ a &gt; ellipse:hover {
           <foreignObject style="overflow:visible;" pointer-events="none" width="89" height="26" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
             <kab:div xmlns:kab="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
               <kab:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">
-                <kab:div style="font-size: 12px">hmm.. <kab:span>Scheme</kab:span>
+                <kab:div style="font-size: 12px">
+                  hmm.. 
+                  <kab:span>Scheme</kab:span>
                 </kab:div>
                 <kab:div style="font-size: 12px">for reports, eh?</kab:div>
               </kab:div>
@@ -361,10 +421,14 @@ a &gt; ellipse:hover {
           <qbb:div xmlns:qbb="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <qbb:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <qbb:div style="font-size: 12px">maybe I </qbb:div>
-              <qbb:div style="font-size: 12px">should <qbb:span>learn</qbb:span>
+              <qbb:div style="font-size: 12px">
+                should 
+                <qbb:span>learn</qbb:span>
               </qbb:div>
               <qbb:div style="font-size: 12px">about functional</qbb:div>
-              <qbb:div style="font-size: 12px">programming<qbb:br style="font-size: 12px"/>
+              <qbb:div style="font-size: 12px">
+                programming
+                <qbb:br style="font-size: 12px"/>
               </qbb:div>
             </qbb:div>
           </qbb:div>
@@ -381,9 +445,13 @@ a &gt; ellipse:hover {
           <zcb:div xmlns:zcb="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <zcb:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <zcb:div style="font-size: 12px">Clojure</zcb:div>
-              <zcb:div style="font-size: 12px">looks <zcb:br style="font-size: 12px"/>
+              <zcb:div style="font-size: 12px">
+                looks 
+                <zcb:br style="font-size: 12px"/>
               </zcb:div>
-              <zcb:div style="font-size: 12px">interesting<zcb:br style="font-size: 12px"/>
+              <zcb:div style="font-size: 12px">
+                interesting
+                <zcb:br style="font-size: 12px"/>
               </zcb:div>
             </zcb:div>
           </zcb:div>
@@ -401,16 +469,20 @@ a &gt; ellipse:hover {
     <path d="M 532.74 378.66 L 534.72 371.09 L 536.2 374.71 L 539.99 375.71 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
     <path d="M 510 1847 L 540.77 1825.63" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
     <path d="M 545.08 1822.64 L 541.33 1829.51 L 540.77 1825.63 L 537.34 1823.76 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
-    <path d="M 586 1934.5 C 548 1934.5 538.5 1957 568.9 1961.5 C 538.5 1971.4 572.7 1993 597.4 1984 C 614.5 2002 671.5 2002 690.5 1984 C 728.5 1984 728.5 1966 704.75 1957 C 728.5 1939 690.5 1921 657.25 1930 C 633.5 1916.5 595.5 1916.5 586 1934.5 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
-    <g transform="translate(589.5,1936.5)">
+    <path d="M 413 1928.5 C 375 1928.5 365.5 1951 395.9 1955.5 C 365.5 1965.4 399.7 1987 424.4 1978 C 441.5 1996 498.5 1996 517.5 1978 C 555.5 1978 555.5 1960 531.75 1951 C 555.5 1933 517.5 1915 484.25 1924 C 460.5 1910.5 422.5 1910.5 413 1928.5 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+    <g transform="translate(416.5,1930.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="none" width="87" height="40" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <wfb:div xmlns:wfb="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <wfb:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <wfb:div style="font-size: 12px">oh man</wfb:div>
-              <wfb:div style="font-size: 12px">its hard to <wfb:br style="font-size: 12px"/>
+              <wfb:div style="font-size: 12px">
+                its hard to 
+                <wfb:br style="font-size: 12px"/>
               </wfb:div>
-              <wfb:div style="font-size: 12px">read large diffs<wfb:br style="font-size: 12px"/>
+              <wfb:div style="font-size: 12px">
+                read large diffs
+                <wfb:br style="font-size: 12px"/>
               </wfb:div>
             </wfb:div>
           </wfb:div>
@@ -418,14 +490,18 @@ a &gt; ellipse:hover {
         <text x="44" y="26" fill="#000000" text-anchor="middle" font-size="12px" font-family="Arvo">[Not supported by viewer]</text>
       </switch>
     </g>
-    <path d="M 606 1862 L 613.59 1914.7" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
-    <path d="M 614.34 1919.89 L 609.88 1913.46 L 613.59 1914.7 L 616.81 1912.47 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+    <path d="M 606 1862 L 537.42 1924.22" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+    <path d="M 533.53 1927.75 L 536.36 1920.45 L 537.42 1924.22 L 541.06 1925.64 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
     <path d="M 627.25 1243 C 600.25 1243 593.5 1263 615.1 1267 C 593.5 1275.8 617.8 1295 635.35 1287 C 647.5 1303 688 1303 701.5 1287 C 728.5 1287 728.5 1271 711.63 1263 C 728.5 1247 701.5 1231 677.88 1239 C 661 1227 634 1227 627.25 1243 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
     <g transform="translate(617.5,1249.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="none" width="87" height="26" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <fhb:div xmlns:fhb="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <fhb:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">I should create<fhb:br style="font-size: 12px"/>a little logo</fhb:div>
+            <fhb:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              I should create
+              <fhb:br style="font-size: 12px"/>
+              a little logo
+            </fhb:div>
           </fhb:div>
         </foreignObject>
         <text x="44" y="19" fill="#000000" text-anchor="middle" font-size="12px" font-family="Arvo">[Not supported by viewer]</text>
@@ -438,7 +514,13 @@ a &gt; ellipse:hover {
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="none" width="64" height="40" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <kib:div xmlns:kib="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <kib:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">google <kib:br style="font-size: 12px"/>Sriracha<kib:br style="font-size: 12px"/>font is nice</kib:div>
+            <kib:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              google 
+              <kib:br style="font-size: 12px"/>
+              Sriracha
+              <kib:br style="font-size: 12px"/>
+              font is nice
+            </kib:div>
           </kib:div>
         </foreignObject>
         <text x="32" y="26" fill="#000000" text-anchor="middle" font-size="12px" font-family="Arvo">[Not supported by viewer]</text>
@@ -451,7 +533,15 @@ a &gt; ellipse:hover {
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="none" width="69" height="54" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <qjb:div xmlns:qjb="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <qjb:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">no brew<qjb:br style="font-size: 12px"/>install?<qjb:br style="font-size: 12px"/>I could help <qjb:br style="font-size: 12px"/>with that</qjb:div>
+            <qjb:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              no brew
+              <qjb:br style="font-size: 12px"/>
+              install?
+              <qjb:br style="font-size: 12px"/>
+              I could help 
+              <qjb:br style="font-size: 12px"/>
+              with that
+            </qjb:div>
           </qjb:div>
         </foreignObject>
         <text x="35" y="33" fill="#000000" text-anchor="middle" font-size="12px" font-family="Arvo">[Not supported by viewer]</text>
@@ -474,7 +564,19 @@ a &gt; ellipse:hover {
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="none" width="92" height="82" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <vmb:div xmlns:vmb="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <vmb:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">dang, this<vmb:br style="font-size: 12px"/>weavejester <vmb:br style="font-size: 12px"/>fellow is both<vmb:br style="font-size: 12px"/>smart and kind,<vmb:br style="font-size: 12px"/>maybe I'll stick <vmb:br/>around </vmb:div>
+            <vmb:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              dang, this
+              <vmb:br style="font-size: 12px"/>
+              weavejester 
+              <vmb:br style="font-size: 12px"/>
+              fellow is both
+              <vmb:br style="font-size: 12px"/>
+              smart and kind,
+              <vmb:br style="font-size: 12px"/>
+              maybe I'll stick 
+              <vmb:br/>
+              around 
+            </vmb:div>
           </vmb:div>
         </foreignObject>
         <text x="46" y="47" fill="#000000" text-anchor="middle" font-size="12px" font-family="Arvo">[Not supported by viewer]</text>
@@ -487,7 +589,13 @@ a &gt; ellipse:hover {
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="none" width="93" height="40" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <dob:div xmlns:dob="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <dob:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">import-vars<dob:br style="font-size: 12px"/>is controversial, <dob:br style="font-size: 12px"/>should I?</dob:div>
+            <dob:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              import-vars
+              <dob:br style="font-size: 12px"/>
+              is controversial, 
+              <dob:br style="font-size: 12px"/>
+              should I?
+            </dob:div>
           </dob:div>
         </foreignObject>
         <text x="47" y="26" fill="#000000" text-anchor="middle" font-size="12px" font-family="Arvo">[Not supported by viewer]</text>
@@ -500,7 +608,17 @@ a &gt; ellipse:hover {
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="none" width="127" height="68" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <jpb:div xmlns:jpb="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <jpb:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">dnolan: we'll I'm not a<jpb:br style="font-size: 12px"/>fan of import-vars but<jpb:br style="font-size: 12px"/> it'd teach you about<jpb:br style="font-size: 12px"/>how the cljs<jpb:br style="font-size: 12px"/> compiler works</jpb:div>
+            <jpb:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              dnolan: we'll I'm not a
+              <jpb:br style="font-size: 12px"/>
+              fan of import-vars but
+              <jpb:br style="font-size: 12px"/>
+               it'd teach you about
+              <jpb:br style="font-size: 12px"/>
+              how the cljs
+              <jpb:br style="font-size: 12px"/>
+               compiler works
+            </jpb:div>
           </jpb:div>
         </foreignObject>
         <text x="64" y="40" fill="#000000" text-anchor="middle" font-size="12px" font-family="Arvo">[Not supported by viewer]</text>
@@ -526,7 +644,15 @@ a &gt; ellipse:hover {
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="none" width="72" height="54" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <vrb:div xmlns:vrb="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <vrb:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">do I really<vrb:br style="font-size: 12px"/>need to find <vrb:br style="font-size: 12px"/>more <vrb:br style="font-size: 12px"/>paid work?</vrb:div>
+            <vrb:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              do I really
+              <vrb:br style="font-size: 12px"/>
+              need to find 
+              <vrb:br style="font-size: 12px"/>
+              more 
+              <vrb:br style="font-size: 12px"/>
+              paid work?
+            </vrb:div>
           </vrb:div>
         </foreignObject>
         <text x="36" y="33" fill="#000000" text-anchor="middle" font-size="12px" font-family="Arvo">[Not supported by viewer]</text>
@@ -539,7 +665,13 @@ a &gt; ellipse:hover {
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="none" width="122" height="40" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <ctb:div xmlns:ctb="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <ctb:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">that log<ctb:br style="font-size: 12px"/>line from asciidoctor<ctb:br style="font-size: 12px"/>isn't right</ctb:div>
+            <ctb:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              that log
+              <ctb:br style="font-size: 12px"/>
+              line from asciidoctor
+              <ctb:br style="font-size: 12px"/>
+              isn't right
+            </ctb:div>
           </ctb:div>
         </foreignObject>
         <text x="61" y="26" fill="#000000" text-anchor="middle" font-size="12px" font-family="Arvo">[Not supported by viewer]</text>
@@ -549,31 +681,49 @@ a &gt; ellipse:hover {
     <path d="M 926.9 1605.54 L 919.18 1604.25 L 922.65 1602.45 L 923.3 1598.59 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
     <path d="M 1019 1657.35 L 1058.21 1708.66" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
     <path d="M 1061.39 1712.83 L 1054.36 1709.39 L 1058.21 1708.66 L 1059.93 1705.14 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
-    <path d="M 407.75 1947 C 373.95 1947 365.5 1972 392.54 1977 C 365.5 1988 395.92 2012 417.89 2002 C 433.1 2022 483.8 2022 500.7 2002 C 534.5 2002 534.5 1982 513.38 1972 C 534.5 1952 500.7 1932 471.13 1942 C 450 1927 416.2 1927 407.75 1947 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
-    <g transform="translate(394.5,1951.5)">
+    <path d="M 221.75 1962 C 187.95 1962 179.5 1987 206.54 1992 C 179.5 2003 209.92 2027 231.89 2017 C 247.1 2037 297.8 2037 314.7 2017 C 348.5 2017 348.5 1997 327.38 1987 C 348.5 1967 314.7 1947 285.13 1957 C 264 1942 230.2 1942 221.75 1962 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+    <g transform="translate(208.5,1966.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="none" width="110" height="40" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <sub:div xmlns:sub="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <sub:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">maybe if diffs<sub:br style="font-size: 12px"/>highlighted via<sub:br style="font-size: 12px"/>background color?</sub:div>
+            <sub:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              maybe if diffs
+              <sub:br style="font-size: 12px"/>
+              highlighted via
+              <sub:br style="font-size: 12px"/>
+              background color?
+            </sub:div>
           </sub:div>
         </foreignObject>
         <text x="55" y="26" fill="#000000" text-anchor="middle" font-size="12px" font-family="Arvo">[Not supported by viewer]</text>
       </switch>
     </g>
-    <path d="M 551.8 1948 L 520.59 1947.17" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
-    <path d="M 515.34 1947.03 L 522.43 1943.72 L 520.59 1947.17 L 522.24 1950.71 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
-    <path d="M 387.47 1999 L 328.14 2012.32" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
-    <path d="M 323.02 2013.47 L 329.08 2008.52 L 328.14 2012.32 L 330.61 2015.35 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
-    <path d="M 321.93 2070.28 L 410.57 2101.59" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
-    <path d="M 415.52 2103.34 L 407.75 2104.31 L 410.57 2101.59 L 410.08 2097.71 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
-    <path d="M 519 2132 L 586.36 2113.67" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
-    <path d="M 591.42 2112.29 L 585.59 2117.51 L 586.36 2113.67 L 583.75 2110.75 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+    <path d="M 378.8 1942 L 334.14 1959.66" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+    <path d="M 329.26 1961.59 L 334.48 1955.76 L 334.14 1959.66 L 337.06 1962.27 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+    <path d="M 201.47 2014 L 152.52 2040.67" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+    <path d="M 147.91 2043.18 L 152.38 2036.76 L 152.52 2040.67 L 155.73 2042.91 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+    <path d="M 146.93 2100.28 L 166.78 2151.77" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+    <path d="M 168.67 2156.67 L 162.89 2151.4 L 166.78 2151.77 L 169.42 2148.88 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+    <path d="M 271.5 2186 L 326.29 2198.58" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+    <path d="M 331.41 2199.75 L 323.8 2201.6 L 326.29 2198.58 L 325.37 2194.77 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
     <path d="M 51 1220.5 C 10.6 1220.5 0.5 1260.5 32.82 1268.5 C 0.5 1286.1 36.86 1324.5 63.12 1308.5 C 81.3 1340.5 141.9 1340.5 162.1 1308.5 C 202.5 1308.5 202.5 1276.5 177.25 1260.5 C 202.5 1228.5 162.1 1196.5 126.75 1212.5 C 101.5 1188.5 61.1 1188.5 51 1220.5 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
     <g transform="translate(39.5,1219.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="none" width="123" height="82" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <cxb:div xmlns:cxb="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <cxb:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">oh, rewrite-cljs<cxb:br style="font-size: 12px"/>has moved to<cxb:br style="font-size: 12px"/>clj-commons<cxb:br style="font-size: 12px"/>that'll make a <cxb:br style="font-size: 12px"/>good eventual<cxb:br style="font-size: 12px"/>home for rewrite-cljc</cxb:div>
+            <cxb:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              oh, rewrite-cljs
+              <cxb:br style="font-size: 12px"/>
+              has moved to
+              <cxb:br style="font-size: 12px"/>
+              clj-commons
+              <cxb:br style="font-size: 12px"/>
+              that'll make a 
+              <cxb:br style="font-size: 12px"/>
+              good eventual
+              <cxb:br style="font-size: 12px"/>
+              home for rewrite-cljc
+            </cxb:div>
           </cxb:div>
         </foreignObject>
         <text x="62" y="47" fill="#000000" text-anchor="middle" font-size="12px" font-family="Arvo">[Not supported by viewer]</text>
@@ -588,7 +738,15 @@ a &gt; ellipse:hover {
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="none" width="79" height="54" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <vyb:div xmlns:vyb="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <vyb:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">hmm, project<vyb:br style="font-size: 12px"/>doesn't seem <vyb:br style="font-size: 12px"/>to be<vyb:br style="font-size: 12px"/>maintained</vyb:div>
+            <vyb:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              hmm, project
+              <vyb:br style="font-size: 12px"/>
+              doesn't seem 
+              <vyb:br style="font-size: 12px"/>
+              to be
+              <vyb:br style="font-size: 12px"/>
+              maintained
+            </vyb:div>
           </vyb:div>
         </foreignObject>
         <text x="40" y="33" fill="#000000" text-anchor="middle" font-size="12px" font-family="Arvo">[Not supported by viewer]</text>
@@ -603,7 +761,15 @@ a &gt; ellipse:hover {
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="none" width="111" height="54" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <mac:div xmlns:mac="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <mac:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">chat with <mac:br style="font-size: 12px"/>Martin about<mac:br style="font-size: 12px"/>replacing fork with<mac:br style="font-size: 12px"/>cljdoc analyzer</mac:div>
+            <mac:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              chat with 
+              <mac:br style="font-size: 12px"/>
+              Martin about
+              <mac:br style="font-size: 12px"/>
+              replacing fork with
+              <mac:br style="font-size: 12px"/>
+              cljdoc analyzer
+            </mac:div>
           </mac:div>
         </foreignObject>
         <text x="56" y="33" fill="#000000" text-anchor="middle" font-size="12px" font-family="Arvo">[Not supported by viewer]</text>
@@ -616,7 +782,15 @@ a &gt; ellipse:hover {
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="none" width="84" height="54" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <tbc:div xmlns:tbc="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <tbc:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">cljdoc stickers<tbc:br style="font-size: 12px"/>in the mail!<tbc:br style="font-size: 12px"/>oh, now I'm<tbc:br style="font-size: 12px"/>committing!</tbc:div>
+            <tbc:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              cljdoc stickers
+              <tbc:br style="font-size: 12px"/>
+              in the mail!
+              <tbc:br style="font-size: 12px"/>
+              oh, now I'm
+              <tbc:br style="font-size: 12px"/>
+              committing!
+            </tbc:div>
           </tbc:div>
         </foreignObject>
         <text x="42" y="33" fill="#000000" text-anchor="middle" font-size="12px" font-family="Arvo">[Not supported by viewer]</text>
@@ -629,7 +803,15 @@ a &gt; ellipse:hover {
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="none" width="86" height="54" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <adc:div xmlns:adc="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <adc:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">it is hard to tell<adc:br style="font-size: 12px"/>if things are <adc:br style="font-size: 12px"/>displaying<adc:br style="font-size: 12px"/> as they should</adc:div>
+            <adc:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              it is hard to tell
+              <adc:br style="font-size: 12px"/>
+              if things are 
+              <adc:br style="font-size: 12px"/>
+              displaying
+              <adc:br style="font-size: 12px"/>
+               as they should
+            </adc:div>
           </adc:div>
         </foreignObject>
         <text x="43" y="33" fill="#000000" text-anchor="middle" font-size="12px" font-family="Arvo">[Not supported by viewer]</text>
@@ -648,7 +830,15 @@ a &gt; ellipse:hover {
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="none" width="106" height="54" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <lfc:div xmlns:lfc="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <lfc:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">hey, podcasts<lfc:br style="font-size: 12px"/>are not listed<lfc:br style="font-size: 12px"/>under community<lfc:br style="font-size: 12px"/>resources</lfc:div>
+            <lfc:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              hey, podcasts
+              <lfc:br style="font-size: 12px"/>
+              are not listed
+              <lfc:br style="font-size: 12px"/>
+              under community
+              <lfc:br style="font-size: 12px"/>
+              resources
+            </lfc:div>
           </lfc:div>
         </foreignObject>
         <text x="53" y="33" fill="#000000" text-anchor="middle" font-size="12px" font-family="Arvo">[Not supported by viewer]</text>
@@ -663,7 +853,19 @@ a &gt; ellipse:hover {
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="none" width="77" height="82" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <chc:div xmlns:chc="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <chc:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">what <chc:br/>editor<chc:br style="font-size: 12px"/>should I use?<chc:br style="font-size: 12px"/>I'll learn<chc:br style="font-size: 12px"/>something <chc:br/>new to me</chc:div>
+            <chc:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              what 
+              <chc:br/>
+              editor
+              <chc:br style="font-size: 12px"/>
+              should I use?
+              <chc:br style="font-size: 12px"/>
+              I'll learn
+              <chc:br style="font-size: 12px"/>
+              something 
+              <chc:br/>
+              new to me
+            </chc:div>
           </chc:div>
         </foreignObject>
         <text x="39" y="47" fill="#000000" text-anchor="middle" font-size="12px" font-family="Arvo">[Not supported by viewer]</text>
@@ -707,7 +909,11 @@ a &gt; ellipse:hover {
         <switch>
           <foreignObject style="overflow:visible;" pointer-events="none" width="62" height="26" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
             <imc:div xmlns:imc="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 62px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
-              <imc:div style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">Clojurians <imc:br style="font-size: 12px"/>on Slack</imc:div>
+              <imc:div style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">
+                Clojurians 
+                <imc:br style="font-size: 12px"/>
+                on Slack
+              </imc:div>
             </imc:div>
           </foreignObject>
           <text x="31" y="19" fill="#000000" text-anchor="middle" font-size="12px" font-family="Arvo">[Not supported by viewer]</text>
@@ -724,8 +930,12 @@ a &gt; ellipse:hover {
               <lnc:div style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">
                 <lnc:div style="font-size: 12px">Clojure books</lnc:div>
                 <lnc:div style="font-size: 12px">on </lnc:div>
-                <lnc:div style="font-size: 12px">Safari Books <lnc:br style="font-size: 12px"/>
-                </lnc:div>Online</lnc:div>
+                <lnc:div style="font-size: 12px">
+                  Safari Books 
+                  <lnc:br style="font-size: 12px"/>
+                </lnc:div>
+                Online
+              </lnc:div>
             </lnc:div>
           </foreignObject>
           <text x="41" y="33" fill="#000000" text-anchor="middle" font-size="12px" font-family="Arvo">[Not supported by viewer]</text>
@@ -739,7 +949,11 @@ a &gt; ellipse:hover {
         <switch>
           <foreignObject style="overflow:visible;" pointer-events="none" width="68" height="26" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
             <roc:div xmlns:roc="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 68px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
-              <roc:div style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">Clojure <roc:br style="font-size: 12px"/>newsletters</roc:div>
+              <roc:div style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">
+                Clojure 
+                <roc:br style="font-size: 12px"/>
+                newsletters
+              </roc:div>
             </roc:div>
           </foreignObject>
           <text x="34" y="19" fill="#000000" text-anchor="middle" font-size="12px" font-family="Arvo">[Not supported by viewer]</text>
@@ -753,7 +967,11 @@ a &gt; ellipse:hover {
         <switch>
           <foreignObject style="overflow:visible;" pointer-events="none" width="52" height="26" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
             <upc:div xmlns:upc="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 52px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
-              <upc:div style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">Clojure <upc:br style="font-size: 12px"/>podcasts</upc:div>
+              <upc:div style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">
+                Clojure 
+                <upc:br style="font-size: 12px"/>
+                podcasts
+              </upc:div>
             </upc:div>
           </foreignObject>
           <text x="26" y="19" fill="#000000" text-anchor="middle" font-size="12px" font-family="Arvo">[Not supported by viewer]</text>
@@ -767,7 +985,9 @@ a &gt; ellipse:hover {
         <foreignObject style="overflow:visible;" pointer-events="none" width="74" height="26" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <wqc:div xmlns:wqc="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 74px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
             <wqc:div style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">
-              <wqc:div style="font-size: 12px">build up <wqc:br style="font-size: 12px"/>
+              <wqc:div style="font-size: 12px">
+                build up 
+                <wqc:br style="font-size: 12px"/>
               </wqc:div>
               <wqc:div style="font-size: 12px">clojure mojo</wqc:div>
             </wqc:div>
@@ -811,7 +1031,13 @@ a &gt; ellipse:hover {
         <switch>
           <foreignObject style="overflow:visible;" pointer-events="none" width="38" height="40" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
             <fuc:div xmlns:fuc="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 38px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
-              <fuc:div style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">Visual <fuc:br/>Studio<fuc:br style="font-size: 12px"/>Code</fuc:div>
+              <fuc:div style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">
+                Visual 
+                <fuc:br/>
+                Studio
+                <fuc:br style="font-size: 12px"/>
+                Code
+              </fuc:div>
             </fuc:div>
           </foreignObject>
           <text x="19" y="26" fill="#000000" text-anchor="middle" font-size="12px" font-family="Arvo">[Not supported by viewer]</text>
@@ -852,7 +1078,13 @@ a &gt; ellipse:hover {
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="none" width="76" height="40" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <lxc:div xmlns:lxc="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <lxc:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">personal <lxc:br/>iPhoto to <lxc:br/>flickr project</lxc:div>
+            <lxc:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              personal 
+              <lxc:br/>
+              iPhoto to 
+              <lxc:br/>
+              flickr project
+            </lxc:div>
           </lxc:div>
         </foreignObject>
         <text x="38" y="26" fill="#000000" text-anchor="middle" font-size="12px" font-family="Arvo">[Not supported by viewer]</text>
@@ -893,7 +1125,13 @@ a &gt; ellipse:hover {
         <switch>
           <foreignObject style="overflow:visible;" pointer-events="none" width="62" height="40" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
             <rad:div xmlns:rad="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 64px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
-              <rad:div style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">homebrew<rad:br/>cask<rad:br/>fonts</rad:div>
+              <rad:div style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">
+                homebrew
+                <rad:br/>
+                cask
+                <rad:br/>
+                fonts
+              </rad:div>
             </rad:div>
           </foreignObject>
           <text x="31" y="26" fill="#000000" text-anchor="middle" font-size="12px" font-family="Arvo">homebrew&lt;br&gt;cask&lt;br&gt;fonts</text>
@@ -949,7 +1187,11 @@ a &gt; ellipse:hover {
         <switch>
           <foreignObject style="overflow:visible;" pointer-events="none" width="76" height="26" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
             <zed:div xmlns:zed="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 76px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
-              <zed:div style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">clojurescript<zed:br style="font-size: 12px"/>site</zed:div>
+              <zed:div style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">
+                clojurescript
+                <zed:br style="font-size: 12px"/>
+                site
+              </zed:div>
             </zed:div>
           </foreignObject>
           <text x="38" y="19" fill="#000000" text-anchor="middle" font-size="12px" font-family="Arvo">[Not supported by viewer]</text>
@@ -965,7 +1207,9 @@ a &gt; ellipse:hover {
             <cgd:div xmlns:cgd="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 70px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
               <cgd:div style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">
                 <cgd:div style="font-size: 12px">potemkin</cgd:div>
-                <cgd:div style="font-size: 12px">import-vars<cgd:br style="font-size: 12px"/>
+                <cgd:div style="font-size: 12px">
+                  import-vars
+                  <cgd:br style="font-size: 12px"/>
                 </cgd:div>
               </cgd:div>
             </cgd:div>
@@ -984,8 +1228,12 @@ a &gt; ellipse:hover {
               <hhd:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">
                 <hhd:div style="font-size: 12px">Clojure</hhd:div>
                 <hhd:div style="font-size: 12px">videos </hhd:div>
-                <hhd:div style="font-size: 12px">on <hhd:br style="font-size: 12px"/>
-                </hhd:div>youtube</hhd:div>
+                <hhd:div style="font-size: 12px">
+                  on 
+                  <hhd:br style="font-size: 12px"/>
+                </hhd:div>
+                youtube
+              </hhd:div>
             </hhd:div>
           </foreignObject>
           <text x="24" y="33" fill="#000000" text-anchor="middle" font-size="12px" font-family="Arvo">[Not supported by viewer]</text>
@@ -1028,7 +1276,9 @@ a &gt; ellipse:hover {
           <foreignObject style="overflow:visible;" pointer-events="none" width="71" height="40" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
             <rkd:div xmlns:rkd="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 73px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
               <rkd:div style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">
-                <rkd:div style="font-size: 12px">cljdoc<rkd:br style="font-size: 12px"/>
+                <rkd:div style="font-size: 12px">
+                  cljdoc
+                  <rkd:br style="font-size: 12px"/>
                 </rkd:div>
                 <rkd:div style="font-size: 12px">codox </rkd:div>
                 <rkd:div style="font-size: 12px">fork/branch</rkd:div>
@@ -1077,7 +1327,11 @@ a &gt; ellipse:hover {
         <switch>
           <foreignObject style="overflow:visible;" pointer-events="none" width="54" height="26" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
             <dod:div xmlns:dod="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 56px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
-              <dod:div style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">cljdoc<dod:br/>exerciser</dod:div>
+              <dod:div style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">
+                cljdoc
+                <dod:br/>
+                exerciser
+              </dod:div>
             </dod:div>
           </foreignObject>
           <text x="27" y="19" fill="#000000" text-anchor="middle" font-size="12px" font-family="Arvo">cljdoc&lt;br&gt;exerciser</text>
@@ -1086,8 +1340,8 @@ a &gt; ellipse:hover {
     </a>
     <image x="907.5" y="1988.5" width="12" height="16" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDEyIDE2IiBmaWxsPSJub25lIj4mI3hhOzxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNNCA5SDNWOEg0VjlaTTQgNkgzVjdINFY2Wk00IDRIM1Y1SDRWNFpNNCAySDNWM0g0VjJaTTEyIDFWMTNDMTIgMTMuNTUgMTEuNTUgMTQgMTEgMTRINlYxNkw0LjUgMTQuNUwzIDE2VjE0SDFDMC40NSAxNCAwIDEzLjU1IDAgMTNWMUMwIDAuNDUgMC40NSAwIDEgMEgxMUMxMS41NSAwIDEyIDAuNDUgMTIgMVpNMTEgMTFIMVYxM0gzVjEySDZWMTNIMTFWMTFaTTExIDFIMlYxMEgxMVYxWiIgZmlsbD0iIzFCMUYyMyIvPiYjeGE7PC9zdmc+" preserveAspectRatio="none"/>
     <a xlink:href="https://github.com/lambdaisland/deep-diff/issues?utf8=%E2%9C%93&amp;q=+author%3Alread+" target="_blank">
-      <ellipse cx="279.5" cy="2042" rx="60" ry="40" fill="none" stroke="#000000" pointer-events="fill"/>
-      <g transform="translate(253.5,2035.5)">
+      <ellipse cx="104.5" cy="2072" rx="60" ry="40" fill="none" stroke="#000000" pointer-events="fill"/>
+      <g transform="translate(78.5,2065.5)">
         <switch>
           <foreignObject style="overflow:visible;" pointer-events="none" width="52" height="12" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
             <fpd:div xmlns:fpd="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 54px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
@@ -1098,10 +1352,10 @@ a &gt; ellipse:hover {
         </switch>
       </g>
     </a>
-    <image x="317.5" y="2033.5" width="16" height="16" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2IiBmaWxsPSJub25lIj4mI3hhOzxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMTQuMzc5NyAxNC41OUwxMC45OTk3IDdWM0gxMS45OTk3VjJIMi45OTk3M1YzSDMuOTk5NzNWN0wwLjYyOTcyNiAxNC41OUMwLjMyOTcyNiAxNS4yNSAwLjgxOTcyNiAxNiAxLjUzOTczIDE2SDEzLjQ3OTdDMTQuMTk5NyAxNiAxNC42Nzk3IDE1LjI1IDE0LjM4OTcgMTQuNTlIMTQuMzc5N1pNMy43NDk3MyAxMEw0Ljk5OTczIDdWM0g5Ljk5OTczVjdMMTEuMjQ5NyAxMEgzLjc0OTczWk03Ljk5OTczIDhIOC45OTk3M1Y5SDcuOTk5NzNWOFpNNi45OTk3MyA3SDUuOTk5NzNWNkg2Ljk5OTczVjdaTTYuOTk5NzMgNEg3Ljk5OTczVjVINi45OTk3M1Y0Wk02Ljk5OTczIDFINS45OTk3M1YwSDYuOTk5NzNWMVoiIGZpbGw9IiMxQjFGMjMiLz4mI3hhOzwvc3ZnPg==" preserveAspectRatio="none"/>
+    <image x="142.5" y="2063.5" width="16" height="16" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2IiBmaWxsPSJub25lIj4mI3hhOzxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMTQuMzc5NyAxNC41OUwxMC45OTk3IDdWM0gxMS45OTk3VjJIMi45OTk3M1YzSDMuOTk5NzNWN0wwLjYyOTcyNiAxNC41OUMwLjMyOTcyNiAxNS4yNSAwLjgxOTcyNiAxNiAxLjUzOTczIDE2SDEzLjQ3OTdDMTQuMTk5NyAxNiAxNC42Nzk3IDE1LjI1IDE0LjM4OTcgMTQuNTlIMTQuMzc5N1pNMy43NDk3MyAxMEw0Ljk5OTczIDdWM0g5Ljk5OTczVjdMMTEuMjQ5NyAxMEgzLjc0OTczWk03Ljk5OTczIDhIOC45OTk3M1Y5SDcuOTk5NzNWOFpNNi45OTk3MyA3SDUuOTk5NzNWNkg2Ljk5OTczVjdaTTYuOTk5NzMgNEg3Ljk5OTczVjVINi45OTk3M1Y0Wk02Ljk5OTczIDFINS45OTk3M1YwSDYuOTk5NzNWMVoiIGZpbGw9IiMxQjFGMjMiLz4mI3hhOzwvc3ZnPg==" preserveAspectRatio="none"/>
     <a xlink:href="https://github.com/greglook/puget/pulls?utf8=%E2%9C%93&amp;q=+author%3Alread+" target="_blank">
-      <ellipse cx="459" cy="2132" rx="60" ry="40" fill="none" stroke="#000000" pointer-events="fill"/>
-      <g transform="translate(441.5,2125.5)">
+      <ellipse cx="211.5" cy="2186" rx="60" ry="40" fill="none" stroke="#000000" pointer-events="fill"/>
+      <g transform="translate(194.5,2179.5)">
         <switch>
           <foreignObject style="overflow:visible;" pointer-events="none" width="34" height="12" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
             <hqd:div xmlns:hqd="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 34px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
@@ -1112,10 +1366,10 @@ a &gt; ellipse:hover {
         </switch>
       </g>
     </a>
-    <image x="500.5" y="2123.5" width="12" height="16" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDEyIDE2IiBmaWxsPSJub25lIj4mI3hhOzxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMTEgMTEuMjhDMTEgOS41NSAxMSA1IDExIDVDMTAuOTcgNC4yMiAxMC42NiAzLjUzIDEwLjA2IDIuOTRDOS40NiAyLjM1IDguNzggMi4wMyA4IDJDOCAyIDYuOTggMiA3IDJWMEw0IDNMNyA2VjRIOEM4LjI3IDQuMDIgOC40OCA0LjExIDguNjkgNC4zMUM4LjkgNC41MSA4Ljk5IDQuNzMgOSA1VjExLjI4QzguNDEgMTEuNjIgOCAxMi4yNiA4IDEzQzggMTQuMTEgOC44OSAxNSAxMCAxNUMxMS4xMSAxNSAxMiAxNC4xMSAxMiAxM0MxMiAxMi4yNyAxMS41OSAxMS42MiAxMSAxMS4yOFpNOS45OTk5OSAxNC4yQzkuMzM5OTkgMTQuMiA4Ljc5OTk5IDEzLjY1IDguNzk5OTkgMTNDOC43OTk5OSAxMi4zNSA5LjM0OTk5IDExLjggOS45OTk5OSAxMS44QzEwLjY1IDExLjggMTEuMiAxMi4zNSAxMS4yIDEzQzExLjIgMTMuNjUgMTAuNjUgMTQuMiA5Ljk5OTk5IDE0LjJaTTQgM0M0IDEuODkgMy4xMSAxIDIgMUMwLjg5IDEgMCAxLjg5IDAgM0MwIDMuNzMgMC40MSA0LjM4IDEgNC43MkMxIDYuMjcgMSAxMC4yOCAxIDExLjI4QzAuNDEgMTEuNjIgMCAxMi4yNiAwIDEzQzAgMTQuMTEgMC44OSAxNSAyIDE1QzMuMTEgMTUgNCAxNC4xMSA0IDEzQzQgMTIuMjcgMy41OSAxMS42MiAzIDExLjI4VjQuNzJDMy41OSA0LjM4IDQgMy43NCA0IDNaTTMuMTk5OTkgMTNDMy4xOTk5OSAxMy42NiAyLjY0OTk5IDE0LjIgMS45OTk5OSAxNC4yQzEuMzQ5OTkgMTQuMiAwLjc5OTk4OCAxMy42NSAwLjc5OTk4OCAxM0MwLjc5OTk4OCAxMi4zNSAxLjM0OTk5IDExLjggMS45OTk5OSAxMS44QzIuNjQ5OTkgMTEuOCAzLjE5OTk5IDEyLjM1IDMuMTk5OTkgMTNaTTEuOTk5OTkgNC4yQzEuMzM5OTkgNC4yIDAuNzk5OTg4IDMuNjUgMC43OTk5ODggM0MwLjc5OTk4OCAyLjM1IDEuMzQ5OTkgMS44IDEuOTk5OTkgMS44QzIuNjQ5OTkgMS44IDMuMTk5OTkgMi4zNSAzLjE5OTk5IDNDMy4xOTk5OSAzLjY1IDIuNjQ5OTkgNC4yIDEuOTk5OTkgNC4yWiIgZmlsbD0iIzFCMUYyMyIvPiYjeGE7PC9zdmc+" preserveAspectRatio="none"/>
+    <image x="253" y="2177.5" width="12" height="16" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDEyIDE2IiBmaWxsPSJub25lIj4mI3hhOzxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMTEgMTEuMjhDMTEgOS41NSAxMSA1IDExIDVDMTAuOTcgNC4yMiAxMC42NiAzLjUzIDEwLjA2IDIuOTRDOS40NiAyLjM1IDguNzggMi4wMyA4IDJDOCAyIDYuOTggMiA3IDJWMEw0IDNMNyA2VjRIOEM4LjI3IDQuMDIgOC40OCA0LjExIDguNjkgNC4zMUM4LjkgNC41MSA4Ljk5IDQuNzMgOSA1VjExLjI4QzguNDEgMTEuNjIgOCAxMi4yNiA4IDEzQzggMTQuMTEgOC44OSAxNSAxMCAxNUMxMS4xMSAxNSAxMiAxNC4xMSAxMiAxM0MxMiAxMi4yNyAxMS41OSAxMS42MiAxMSAxMS4yOFpNOS45OTk5OSAxNC4yQzkuMzM5OTkgMTQuMiA4Ljc5OTk5IDEzLjY1IDguNzk5OTkgMTNDOC43OTk5OSAxMi4zNSA5LjM0OTk5IDExLjggOS45OTk5OSAxMS44QzEwLjY1IDExLjggMTEuMiAxMi4zNSAxMS4yIDEzQzExLjIgMTMuNjUgMTAuNjUgMTQuMiA5Ljk5OTk5IDE0LjJaTTQgM0M0IDEuODkgMy4xMSAxIDIgMUMwLjg5IDEgMCAxLjg5IDAgM0MwIDMuNzMgMC40MSA0LjM4IDEgNC43MkMxIDYuMjcgMSAxMC4yOCAxIDExLjI4QzAuNDEgMTEuNjIgMCAxMi4yNiAwIDEzQzAgMTQuMTEgMC44OSAxNSAyIDE1QzMuMTEgMTUgNCAxNC4xMSA0IDEzQzQgMTIuMjcgMy41OSAxMS42MiAzIDExLjI4VjQuNzJDMy41OSA0LjM4IDQgMy43NCA0IDNaTTMuMTk5OTkgMTNDMy4xOTk5OSAxMy42NiAyLjY0OTk5IDE0LjIgMS45OTk5OSAxNC4yQzEuMzQ5OTkgMTQuMiAwLjc5OTk4OCAxMy42NSAwLjc5OTk4OCAxM0MwLjc5OTk4OCAxMi4zNSAxLjM0OTk5IDExLjggMS45OTk5OSAxMS44QzIuNjQ5OTkgMTEuOCAzLjE5OTk5IDEyLjM1IDMuMTk5OTkgMTNaTTEuOTk5OTkgNC4yQzEuMzM5OTkgNC4yIDAuNzk5OTg4IDMuNjUgMC43OTk5ODggM0MwLjc5OTk4OCAyLjM1IDEuMzQ5OTkgMS44IDEuOTk5OTkgMS44QzIuNjQ5OTkgMS44IDMuMTk5OTkgMi4zNSAzLjE5OTk5IDNDMy4xOTk5OSAzLjY1IDIuNjQ5OTkgNC4yIDEuOTk5OTkgNC4yWiIgZmlsbD0iIzFCMUYyMyIvPiYjeGE7PC9zdmc+" preserveAspectRatio="none"/>
     <a xlink:href="https://github.com/brandonbloom/fipp/pulls?utf8=%E2%9C%93&amp;q=author%3Alread+" target="_blank">
-      <ellipse cx="652.5" cy="2112" rx="60" ry="40" fill="none" stroke="#000000" pointer-events="fill"/>
-      <g transform="translate(641.5,2105.5)">
+      <ellipse cx="392.5" cy="2200" rx="60" ry="40" fill="none" stroke="#000000" pointer-events="fill"/>
+      <g transform="translate(381.5,2193.5)">
         <switch>
           <foreignObject style="overflow:visible;" pointer-events="none" width="22" height="12" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
             <jrd:div xmlns:jrd="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 24px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
@@ -1126,13 +1380,17 @@ a &gt; ellipse:hover {
         </switch>
       </g>
     </a>
-    <image x="692.5" y="2103.5" width="12" height="16" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDEyIDE2IiBmaWxsPSJub25lIj4mI3hhOzxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMTEgMTEuMjhDMTEgOS41NSAxMSA1IDExIDVDMTAuOTcgNC4yMiAxMC42NiAzLjUzIDEwLjA2IDIuOTRDOS40NiAyLjM1IDguNzggMi4wMyA4IDJDOCAyIDYuOTggMiA3IDJWMEw0IDNMNyA2VjRIOEM4LjI3IDQuMDIgOC40OCA0LjExIDguNjkgNC4zMUM4LjkgNC41MSA4Ljk5IDQuNzMgOSA1VjExLjI4QzguNDEgMTEuNjIgOCAxMi4yNiA4IDEzQzggMTQuMTEgOC44OSAxNSAxMCAxNUMxMS4xMSAxNSAxMiAxNC4xMSAxMiAxM0MxMiAxMi4yNyAxMS41OSAxMS42MiAxMSAxMS4yOFpNOS45OTk5OSAxNC4yQzkuMzM5OTkgMTQuMiA4Ljc5OTk5IDEzLjY1IDguNzk5OTkgMTNDOC43OTk5OSAxMi4zNSA5LjM0OTk5IDExLjggOS45OTk5OSAxMS44QzEwLjY1IDExLjggMTEuMiAxMi4zNSAxMS4yIDEzQzExLjIgMTMuNjUgMTAuNjUgMTQuMiA5Ljk5OTk5IDE0LjJaTTQgM0M0IDEuODkgMy4xMSAxIDIgMUMwLjg5IDEgMCAxLjg5IDAgM0MwIDMuNzMgMC40MSA0LjM4IDEgNC43MkMxIDYuMjcgMSAxMC4yOCAxIDExLjI4QzAuNDEgMTEuNjIgMCAxMi4yNiAwIDEzQzAgMTQuMTEgMC44OSAxNSAyIDE1QzMuMTEgMTUgNCAxNC4xMSA0IDEzQzQgMTIuMjcgMy41OSAxMS42MiAzIDExLjI4VjQuNzJDMy41OSA0LjM4IDQgMy43NCA0IDNaTTMuMTk5OTkgMTNDMy4xOTk5OSAxMy42NiAyLjY0OTk5IDE0LjIgMS45OTk5OSAxNC4yQzEuMzQ5OTkgMTQuMiAwLjc5OTk4OCAxMy42NSAwLjc5OTk4OCAxM0MwLjc5OTk4OCAxMi4zNSAxLjM0OTk5IDExLjggMS45OTk5OSAxMS44QzIuNjQ5OTkgMTEuOCAzLjE5OTk5IDEyLjM1IDMuMTk5OTkgMTNaTTEuOTk5OTkgNC4yQzEuMzM5OTkgNC4yIDAuNzk5OTg4IDMuNjUgMC43OTk5ODggM0MwLjc5OTk4OCAyLjM1IDEuMzQ5OTkgMS44IDEuOTk5OTkgMS44QzIuNjQ5OTkgMS44IDMuMTk5OTkgMi4zNSAzLjE5OTk5IDNDMy4xOTk5OSAzLjY1IDIuNjQ5OTkgNC4yIDEuOTk5OTkgNC4yWiIgZmlsbD0iIzFCMUYyMyIvPiYjeGE7PC9zdmc+" preserveAspectRatio="none"/>
+    <image x="432.5" y="2191.5" width="12" height="16" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDEyIDE2IiBmaWxsPSJub25lIj4mI3hhOzxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMTEgMTEuMjhDMTEgOS41NSAxMSA1IDExIDVDMTAuOTcgNC4yMiAxMC42NiAzLjUzIDEwLjA2IDIuOTRDOS40NiAyLjM1IDguNzggMi4wMyA4IDJDOCAyIDYuOTggMiA3IDJWMEw0IDNMNyA2VjRIOEM4LjI3IDQuMDIgOC40OCA0LjExIDguNjkgNC4zMUM4LjkgNC41MSA4Ljk5IDQuNzMgOSA1VjExLjI4QzguNDEgMTEuNjIgOCAxMi4yNiA4IDEzQzggMTQuMTEgOC44OSAxNSAxMCAxNUMxMS4xMSAxNSAxMiAxNC4xMSAxMiAxM0MxMiAxMi4yNyAxMS41OSAxMS42MiAxMSAxMS4yOFpNOS45OTk5OSAxNC4yQzkuMzM5OTkgMTQuMiA4Ljc5OTk5IDEzLjY1IDguNzk5OTkgMTNDOC43OTk5OSAxMi4zNSA5LjM0OTk5IDExLjggOS45OTk5OSAxMS44QzEwLjY1IDExLjggMTEuMiAxMi4zNSAxMS4yIDEzQzExLjIgMTMuNjUgMTAuNjUgMTQuMiA5Ljk5OTk5IDE0LjJaTTQgM0M0IDEuODkgMy4xMSAxIDIgMUMwLjg5IDEgMCAxLjg5IDAgM0MwIDMuNzMgMC40MSA0LjM4IDEgNC43MkMxIDYuMjcgMSAxMC4yOCAxIDExLjI4QzAuNDEgMTEuNjIgMCAxMi4yNiAwIDEzQzAgMTQuMTEgMC44OSAxNSAyIDE1QzMuMTEgMTUgNCAxNC4xMSA0IDEzQzQgMTIuMjcgMy41OSAxMS42MiAzIDExLjI4VjQuNzJDMy41OSA0LjM4IDQgMy43NCA0IDNaTTMuMTk5OTkgMTNDMy4xOTk5OSAxMy42NiAyLjY0OTk5IDE0LjIgMS45OTk5OSAxNC4yQzEuMzQ5OTkgMTQuMiAwLjc5OTk4OCAxMy42NSAwLjc5OTk4OCAxM0MwLjc5OTk4OCAxMi4zNSAxLjM0OTk5IDExLjggMS45OTk5OSAxMS44QzIuNjQ5OTkgMTEuOCAzLjE5OTk5IDEyLjM1IDMuMTk5OTkgMTNaTTEuOTk5OTkgNC4yQzEuMzM5OTkgNC4yIDAuNzk5OTg4IDMuNjUgMC43OTk5ODggM0MwLjc5OTk4OCAyLjM1IDEuMzQ5OTkgMS44IDEuOTk5OTkgMS44QzIuNjQ5OTkgMS44IDMuMTk5OTkgMi4zNSAzLjE5OTk5IDNDMy4xOTk5OSAzLjY1IDIuNjQ5OTkgNC4yIDEuOTk5OTkgNC4yWiIgZmlsbD0iIzFCMUYyMyIvPiYjeGE7PC9zdmc+" preserveAspectRatio="none"/>
     <path d="M 992 1495 C 958.4 1495 950 1515 976.88 1519 C 950 1527.8 980.24 1547 1002.08 1539 C 1017.2 1555 1067.6 1555 1084.4 1539 C 1118 1539 1118 1523 1097 1515 C 1118 1499 1084.4 1483 1055 1491 C 1034 1479 1000.4 1479 992 1495 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
     <g transform="translate(985.5,1501.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="none" width="97" height="26" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <isd:div xmlns:isd="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <isd:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">how should<isd:br/>we do diagrams?</isd:div>
+            <isd:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              how should
+              <isd:br/>
+              we do diagrams?
+            </isd:div>
           </isd:div>
         </foreignObject>
         <text x="49" y="19" fill="#000000" text-anchor="middle" font-size="12px" font-family="Arvo">how should&lt;br&gt;we do diagrams?</text>
@@ -1145,7 +1403,15 @@ a &gt; ellipse:hover {
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="none" width="69" height="54" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <mtd:div xmlns:mtd="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <mtd:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">martink:<mtd:br/>I have some<mtd:br/>friends who<mtd:br/>love draw.io</mtd:div>
+            <mtd:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              martink:
+              <mtd:br/>
+              I have some
+              <mtd:br/>
+              friends who
+              <mtd:br/>
+              love draw.io
+            </mtd:div>
           </mtd:div>
         </foreignObject>
         <text x="35" y="33" fill="#000000" text-anchor="middle" font-size="12px" font-family="Arvo">[Not supported by viewer]</text>
@@ -1160,7 +1426,15 @@ a &gt; ellipse:hover {
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="none" width="96" height="54" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <avd:div xmlns:avd="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <avd:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">awesome!<avd:br/>wait,  I'm getting<avd:br/>distracted<avd:br/>again</avd:div>
+            <avd:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              awesome!
+              <avd:br/>
+              wait,  I'm getting
+              <avd:br/>
+              distracted
+              <avd:br/>
+              again
+            </avd:div>
           </avd:div>
         </foreignObject>
         <text x="48" y="33" fill="#000000" text-anchor="middle" font-size="12px" font-family="Arvo">[Not supported by viewer]</text>
@@ -1173,7 +1447,15 @@ a &gt; ellipse:hover {
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="none" width="89" height="54" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <ewd:div xmlns:ewd="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <ewd:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">maybe I should<ewd:br/>track<ewd:br/>my clojure<ewd:br/>journey</ewd:div>
+            <ewd:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              maybe I should
+              <ewd:br/>
+              track
+              <ewd:br/>
+              my clojure
+              <ewd:br/>
+              journey
+            </ewd:div>
           </ewd:div>
         </foreignObject>
         <text x="45" y="33" fill="#000000" text-anchor="middle" font-size="12px" font-family="Arvo">[Not supported by viewer]</text>
@@ -1189,7 +1471,13 @@ a &gt; ellipse:hover {
         <switch>
           <foreignObject style="overflow:visible;" pointer-events="none" width="46" height="40" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
             <vxd:div xmlns:vxd="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 46px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
-              <vxd:div style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">lee<vxd:br/>clojure<vxd:br/>journey</vxd:div>
+              <vxd:div style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">
+                lee
+                <vxd:br/>
+                clojure
+                <vxd:br/>
+                journey
+              </vxd:div>
             </vxd:div>
           </foreignObject>
           <text x="23" y="26" fill="#000000" text-anchor="middle" font-size="12px" font-family="Arvo">[Not supported by viewer]</text>
@@ -1216,7 +1504,13 @@ a &gt; ellipse:hover {
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="none" width="107" height="40" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <wzd:div xmlns:wzd="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <wzd:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">hmm, <wzd:br/>can I get some <wzd:br/>link hover effects?</wzd:div>
+            <wzd:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              hmm, 
+              <wzd:br/>
+              can I get some 
+              <wzd:br/>
+              link hover effects?
+            </wzd:div>
           </wzd:div>
         </foreignObject>
         <text x="54" y="26" fill="#000000" text-anchor="middle" font-size="12px" font-family="Arvo">[Not supported by viewer]</text>
@@ -1229,7 +1523,13 @@ a &gt; ellipse:hover {
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="none" width="48" height="40" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <abe:div xmlns:abe="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <abe:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">can use<abe:br/>a google<abe:br/>font?</abe:div>
+            <abe:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              can use
+              <abe:br/>
+              a google
+              <abe:br/>
+              font?
+            </abe:div>
           </abe:div>
         </foreignObject>
         <text x="24" y="26" fill="#000000" text-anchor="middle" font-size="12px" font-family="Arvo">[Not supported by viewer]</text>
@@ -1242,7 +1542,17 @@ a &gt; ellipse:hover {
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="none" width="99" height="68" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <ece:div xmlns:ece="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <ece:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">how do I<ece:br/>share this<ece:br/>svg diagram<ece:br/>and have it<ece:br/>render properly?</ece:div>
+            <ece:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              how do I
+              <ece:br/>
+              share this
+              <ece:br/>
+              svg diagram
+              <ece:br/>
+              and have it
+              <ece:br/>
+              render properly?
+            </ece:div>
           </ece:div>
         </foreignObject>
         <text x="50" y="40" fill="#000000" text-anchor="middle" font-size="12px" font-family="Arvo">[Not supported by viewer]</text>
@@ -1271,7 +1581,13 @@ a &gt; ellipse:hover {
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="none" width="102" height="40" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <uee:div xmlns:uee="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <uee:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">oh well, sometimes<uee:br/>a gift is<uee:br/>a burden</uee:div>
+            <uee:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              oh well, sometimes
+              <uee:br/>
+              a gift is
+              <uee:br/>
+              a burden
+            </uee:div>
           </uee:div>
         </foreignObject>
         <text x="51" y="26" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">[Not supported by viewer]</text>
@@ -1284,7 +1600,13 @@ a &gt; ellipse:hover {
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="none" width="74" height="40" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <age:div xmlns:age="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 76px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
-            <age:div style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">quietly upload<age:br/>a clj-kondo<age:br/>icon to Slack</age:div>
+            <age:div style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">
+              quietly upload
+              <age:br/>
+              a clj-kondo
+              <age:br/>
+              icon to Slack
+            </age:div>
           </age:div>
         </foreignObject>
         <text x="37" y="26" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">[Not supported by viewer]</text>
@@ -1297,7 +1619,17 @@ a &gt; ellipse:hover {
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="none" width="91" height="68" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <ehe:div xmlns:ehe="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <ehe:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">borkdude<ehe:br/>notices it, likes it,<ehe:br/>uses it,<ehe:br/>and and hopes<ehe:br/>for a PR</ehe:div>
+            <ehe:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              borkdude
+              <ehe:br/>
+              notices it, likes it,
+              <ehe:br/>
+              uses it,
+              <ehe:br/>
+              and and hopes
+              <ehe:br/>
+              for a PR
+            </ehe:div>
           </ehe:div>
         </foreignObject>
         <text x="46" y="40" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">[Not supported by viewer]</text>
@@ -1326,7 +1658,13 @@ a &gt; ellipse:hover {
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="none" width="77" height="40" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <uje:div xmlns:uje="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <uje:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">clj-kondo<uje:br/>stickers on the<uje:br/>way! coolio!</uje:div>
+            <uje:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              clj-kondo
+              <uje:br/>
+              stickers on the
+              <uje:br/>
+              way! coolio!
+            </uje:div>
           </uje:div>
         </foreignObject>
         <text x="39" y="26" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">[Not supported by viewer]</text>
@@ -1339,7 +1677,15 @@ a &gt; ellipse:hover {
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="none" width="80" height="54" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <yke:div xmlns:yke="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <yke:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">dang, I really<yke:br/>should hit the<yke:br/>4cljojure site to<yke:br/>practice</yke:div>
+            <yke:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              dang, I really
+              <yke:br/>
+              should hit the
+              <yke:br/>
+              4cljojure site to
+              <yke:br/>
+              practice
+            </yke:div>
           </yke:div>
         </foreignObject>
         <text x="40" y="33" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">[Not supported by viewer]</text>
@@ -1368,7 +1714,11 @@ a &gt; ellipse:hover {
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="none" width="58" height="26" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <one:div xmlns:one="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <one:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">yeah, I this<one:br/>helping!</one:div>
+            <one:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              yeah, I this
+              <one:br/>
+              helping!
+            </one:div>
           </one:div>
         </foreignObject>
         <text x="29" y="19" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">yeah, I this&lt;br&gt;helping!</text>
@@ -1383,7 +1733,17 @@ a &gt; ellipse:hover {
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="none" width="83" height="68" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <cpe:div xmlns:cpe="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <cpe:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">borkdude<cpe:br/>requests more<cpe:br/>logo work, <cpe:br/>who can say no<cpe:br/> to borkdude?</cpe:div>
+            <cpe:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              borkdude
+              <cpe:br/>
+              requests more
+              <cpe:br/>
+              logo work, 
+              <cpe:br/>
+              who can say no
+              <cpe:br/>
+               to borkdude?
+            </cpe:div>
           </cpe:div>
         </foreignObject>
         <text x="42" y="40" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">[Not supported by viewer]</text>
@@ -1444,7 +1804,17 @@ a &gt; ellipse:hover {
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="none" width="78" height="68" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <que:div xmlns:que="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <que:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">should make <que:br/>sure<que:br/>this works<que:br/>under <que:br/>GraalVM</que:div>
+            <que:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              should make 
+              <que:br/>
+              sure
+              <que:br/>
+              this works
+              <que:br/>
+              under 
+              <que:br/>
+              GraalVM
+            </que:div>
           </que:div>
         </foreignObject>
         <text x="39" y="40" fill="#000000" text-anchor="middle" font-size="12px" font-family="Arvo">[Not supported by viewer]</text>
@@ -1457,7 +1827,15 @@ a &gt; ellipse:hover {
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="none" width="80" height="54" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <uve:div xmlns:uve="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <uve:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">collaborate<uve:br/>with borkdude<uve:br/>on sharing<uve:br/>scripts and tips</uve:div>
+            <uve:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              collaborate
+              <uve:br/>
+              with borkdude
+              <uve:br/>
+              on sharing
+              <uve:br/>
+              scripts and tips
+            </uve:div>
           </uve:div>
         </foreignObject>
         <text x="40" y="33" fill="#000000" text-anchor="middle" font-size="12px" font-family="Helvetica">[Not supported by viewer]</text>
@@ -1481,5 +1859,67 @@ a &gt; ellipse:hover {
     <image x="856.5" y="899.5" width="12" height="16" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDEyIDE2IiBmaWxsPSJub25lIj4mI3hhOzxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNNCA5SDNWOEg0VjlaTTQgNkgzVjdINFY2Wk00IDRIM1Y1SDRWNFpNNCAySDNWM0g0VjJaTTEyIDFWMTNDMTIgMTMuNTUgMTEuNTUgMTQgMTEgMTRINlYxNkw0LjUgMTQuNUwzIDE2VjE0SDFDMC40NSAxNCAwIDEzLjU1IDAgMTNWMUMwIDAuNDUgMC40NSAwIDEgMEgxMUMxMS41NSAwIDEyIDAuNDUgMTIgMVpNMTEgMTFIMVYxM0gzVjEySDZWMTNIMTFWMTFaTTExIDFIMlYxMEgxMVYxWiIgZmlsbD0iIzFCMUYyMyIvPiYjeGE7PC9zdmc+" preserveAspectRatio="none"/>
     <path d="M 737.38 998.3 L 767.1 941.92" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
     <path d="M 769.55 937.27 L 769.38 945.1 L 767.1 941.92 L 763.19 941.83 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+    <path d="M 632 1917.5 C 594 1917.5 584.5 1940 614.9 1944.5 C 584.5 1954.4 618.7 1976 643.4 1967 C 660.5 1985 717.5 1985 736.5 1967 C 774.5 1967 774.5 1949 750.75 1940 C 774.5 1922 736.5 1904 703.25 1913 C 679.5 1899.5 641.5 1899.5 632 1917.5 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+    <g transform="translate(641.5,1919.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="none" width="76" height="40" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <kye:div xmlns:kye="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <kye:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <kye:div style="font-size: 12px">Am I having </kye:div>
+              <kye:div style="font-size: 12px">an issue with</kye:div>
+              <kye:div style="font-size: 12px">cli-matic?</kye:div>
+            </kye:div>
+          </kye:div>
+        </foreignObject>
+        <text x="38" y="26" fill="#000000" text-anchor="middle" font-size="12px" font-family="Arvo">[Not supported by viewer]</text>
+      </switch>
+    </g>
+    <path d="M 670 2039 C 632 2039 622.5 2082 652.9 2090.6 C 622.5 2109.52 656.7 2150.8 681.4 2133.6 C 698.5 2168 755.5 2168 774.5 2133.6 C 812.5 2133.6 812.5 2099.2 788.75 2082 C 812.5 2047.6 774.5 2013.2 741.25 2030.4 C 717.5 2004.6 679.5 2004.6 670 2039 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+    <g transform="translate(662.5,2033.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="none" width="110" height="96" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <hze:div xmlns:hze="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <hze:div style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <hze:div style="font-size: 12px">Oh not really,</hze:div>
+              <hze:div style="font-size: 12px"> it's expound, </hze:div>
+              <hze:div style="font-size: 12px">and I can work</hze:div>
+              <hze:div style="font-size: 12px"> around it.</hze:div>
+              <hze:div style="font-size: 12px">
+                But 
+                <hze:span>a test is failing,</hze:span>
+              </hze:div>
+              <hze:div style="font-size: 12px">
+                <hze:span> I'll </hze:span>
+                <hze:span>give back</hze:span>
+              </hze:div>
+              <hze:div style="font-size: 12px">
+                <hze:span> by fixing it.</hze:span>
+              </hze:div>
+            </hze:div>
+          </hze:div>
+        </foreignObject>
+        <text x="55" y="54" fill="#000000" text-anchor="middle" font-size="12px" font-family="Arvo">[Not supported by viewer]</text>
+      </switch>
+    </g>
+    <path d="M 648.43 1850.28 L 659.1 1897.79" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+    <path d="M 660.25 1902.91 L 655.3 1896.85 L 659.1 1897.79 L 662.13 1895.31 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+    <path d="M 689 1980.5 L 696.72 2007.08" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+    <path d="M 698.19 2012.13 L 692.87 2006.38 L 696.72 2007.08 L 699.6 2004.43 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+    <a xlink:href="https://github.com/l3nz/cli-matic/pulls?utf8=✓&amp;q=+is%3Apr+author%3Alread+" target="_blank">
+      <ellipse cx="714.5" cy="2247" rx="60" ry="40" fill="none" stroke="#000000" pointer-events="fill"/>
+      <g transform="translate(688.5,2240.5)">
+        <switch>
+          <foreignObject style="overflow:visible;" pointer-events="none" width="52" height="12" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <fbf:div xmlns:fbf="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 12px; font-family: Arvo; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 52px; white-space: nowrap; overflow-wrap: normal; text-align: center;">
+              <fbf:div style="display:inline-block;text-align:inherit;text-decoration:inherit;white-space:normal;">cli-matic</fbf:div>
+            </fbf:div>
+          </foreignObject>
+          <text x="26" y="12" fill="#000000" text-anchor="middle" font-size="12px" font-family="Arvo">cli-matic</text>
+        </switch>
+      </g>
+    </a>
+    <image x="754.5" y="2238.5" width="12" height="16" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDEyIDE2IiBmaWxsPSJub25lIj4mI3hhOzxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBkPSJNMTEgMTEuMjhDMTEgOS41NSAxMSA1IDExIDVDMTAuOTcgNC4yMiAxMC42NiAzLjUzIDEwLjA2IDIuOTRDOS40NiAyLjM1IDguNzggMi4wMyA4IDJDOCAyIDYuOTggMiA3IDJWMEw0IDNMNyA2VjRIOEM4LjI3IDQuMDIgOC40OCA0LjExIDguNjkgNC4zMUM4LjkgNC41MSA4Ljk5IDQuNzMgOSA1VjExLjI4QzguNDEgMTEuNjIgOCAxMi4yNiA4IDEzQzggMTQuMTEgOC44OSAxNSAxMCAxNUMxMS4xMSAxNSAxMiAxNC4xMSAxMiAxM0MxMiAxMi4yNyAxMS41OSAxMS42MiAxMSAxMS4yOFpNOS45OTk5OSAxNC4yQzkuMzM5OTkgMTQuMiA4Ljc5OTk5IDEzLjY1IDguNzk5OTkgMTNDOC43OTk5OSAxMi4zNSA5LjM0OTk5IDExLjggOS45OTk5OSAxMS44QzEwLjY1IDExLjggMTEuMiAxMi4zNSAxMS4yIDEzQzExLjIgMTMuNjUgMTAuNjUgMTQuMiA5Ljk5OTk5IDE0LjJaTTQgM0M0IDEuODkgMy4xMSAxIDIgMUMwLjg5IDEgMCAxLjg5IDAgM0MwIDMuNzMgMC40MSA0LjM4IDEgNC43MkMxIDYuMjcgMSAxMC4yOCAxIDExLjI4QzAuNDEgMTEuNjIgMCAxMi4yNiAwIDEzQzAgMTQuMTEgMC44OSAxNSAyIDE1QzMuMTEgMTUgNCAxNC4xMSA0IDEzQzQgMTIuMjcgMy41OSAxMS42MiAzIDExLjI4VjQuNzJDMy41OSA0LjM4IDQgMy43NCA0IDNaTTMuMTk5OTkgMTNDMy4xOTk5OSAxMy42NiAyLjY0OTk5IDE0LjIgMS45OTk5OSAxNC4yQzEuMzQ5OTkgMTQuMiAwLjc5OTk4OCAxMy42NSAwLjc5OTk4OCAxM0MwLjc5OTk4OCAxMi4zNSAxLjM0OTk5IDExLjggMS45OTk5OSAxMS44QzIuNjQ5OTkgMTEuOCAzLjE5OTk5IDEyLjM1IDMuMTk5OTkgMTNaTTEuOTk5OTkgNC4yQzEuMzM5OTkgNC4yIDAuNzk5OTg4IDMuNjUgMC43OTk5ODggM0MwLjc5OTk4OCAyLjM1IDEuMzQ5OTkgMS44IDEuOTk5OTkgMS44QzIuNjQ5OTkgMS44IDMuMTk5OTkgMi4zNSAzLjE5OTk5IDNDMy4xOTk5OSAzLjY1IDIuNjQ5OTkgNC4yIDEuOTk5OTkgNC4yWiIgZmlsbD0iIzFCMUYyMyIvPiYjeGE7PC9zdmc+" preserveAspectRatio="none"/>
+    <path d="M 727 2159.4 L 716.12 2200.84" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+    <path d="M 714.78 2205.92 L 713.18 2198.26 L 716.12 2200.84 L 719.95 2200.04 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
   </g>
 </svg>
